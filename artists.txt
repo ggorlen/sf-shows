@@ -173,7 +173,6 @@ facialmess
 farben
 faust
 feast of herod
-feldman
 fenian
 fennesz
 ferial confine
@@ -186,7 +185,6 @@ francisco lopez
 franco battiato
 freiband
 french toast
-fripp
 fugazi
 funckarma
 furekaben
@@ -195,7 +193,6 @@ g.b. beckers
 g.f. haas
 gas
 gavin bryars
-gen ken
 gen ken montgomery
 genesis
 gentle giant
@@ -220,7 +217,7 @@ gryphon
 guitar roberts
 guru guru
 gyorgy kurtag
-hanatarash 2
+hanatarash
 hands to
 happy end
 harmonia
@@ -258,7 +255,7 @@ j dilla
 jack taylor
 jacob kirkegaard
 jacquet de la guerre
-jakszyk
+jakko jakszyk
 jamarrel rayshad vaughn
 james devane
 james plotkin
@@ -492,7 +489,6 @@ russ gabriel
 ryoji ikeda
 ryu hankil
 ryuichi sakamoto
-ryuicho sakamoto
 sachiko m
 sakamoto
 samuel vriezen
@@ -596,7 +592,6 @@ trans am
 tsering tobgyal
 tv pow
 tve
-twin peaks
 utah kawasaki
 velfaerd
 vend

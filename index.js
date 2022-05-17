@@ -4,40 +4,78 @@ const fs = require("fs");
 const Levenshtein = require("levenshtein");
 require("util").inspect.defaultOptions.depth = null;
 
-// also scrape bayimproviser
-// TODO compare against list of artists in discogs lists
-// TODO fetch venue and price for matches
 
-const url = "http://www.foopee.com/punk/the-list/";
+const regexify = s => new RegExp(
+  s.replace(/\w+/g, m => `\\b${m}\\b`)
+   .replace(/ +/g, "\\s+")
+);
 
-(async () => {
-  const favArtists = (await fs.promises.readFile("artists.txt"))
-    .toString()
-    .split(/\r?\n/)
-    .map(e => e.replace(/^the +/, "").trim())
-    .filter(e => e)
-  ;
+const scrapeSFCM = async favArtists => {
+  const url = "https://sfcm.edu/performance-calendar";
   const {data} = await axios.get(url);
   const $ = cheerio.load(data);
-  const sel = 'a[href^="by-band"]';
+  const titles = [];
+  $(".mar-b-half h3").each(function (i, e) {
+    titles.push($(this).text().trim().toLowerCase());
+  });
+
+  const allMatches = [];
+  
+  for (const artist of favArtists) {
+    const matches = titles.filter(e => regexify(artist).test(e));
+
+    if (matches.length) {
+      allMatches.push({artist, matches});
+    }
+  }
+
+  return allMatches;
+};
+
+const scrapeBayImproviser = async favArtists => {
+  const url = "https://www.bayimproviser.com/calendar.aspx";
+  const {data} = await axios.get(url);
+  const $ = cheerio.load(data);
+  const descriptions = [];
+  $(".description").each(function (i, e) {
+    descriptions.push($(this).text().trim().toLowerCase());
+  });
+
+  const allMatches = [];
+
+  for (const artist of favArtists) {
+    const matches = descriptions.filter(e => regexify(artist).test(e));
+
+    if (matches.length) {
+      allMatches.push({artist, matches});
+    }
+  }
+
+  return allMatches;
+};
+
+const scrapeTheList = async favArtists => {
+  const url = "http://www.foopee.com/punk/the-list/";
+  const {data} = await axios.get(url);
+  const $ = cheerio.load(data);
   const artists = [];
-  $(sel).each(function (i, e) {
+  $('a[href^="by-band"]').each(function (i, e) {
     const artist = $(this).text().trim().toLowerCase();
 
     if (artist) {
-      //console.log(url + $(this).attr("href"));
-      artists.push(artist);
+      artists.push({artist, href: $(this).attr("href")});
     }
   });
 
   const allMatches = [];
 
-  for (const a of favArtists) {
+  for (const a of favArtists.filter(e => e !== "non" && e !== "being")) {
     const current = {artist: a, matches: []};
 
-    for (const b of artists) {
-      if (a.length > 5 && b.length > 5 && (b.includes(a) || a.includes(b))) {
-        current.matches.push({artist: b});
+    for (const {artist: b, href} of artists) {
+      if (a.length > 5 && b.length > 5 && 
+            (b.includes(a) || a.includes(b))) {
+        current.matches.push({artist: b, href});
       }
       else {
         const {distance} = new Levenshtein(a, b);
@@ -53,7 +91,22 @@ const url = "http://www.foopee.com/punk/the-list/";
     }
   }
 
-  console.log(JSON.stringify(allMatches, null, 2));
+  return allMatches;
+};
+
+(async () => {
+  const favArtists = (await fs.promises.readFile("artists.txt"))
+    .toString()
+    .split(/\r?\n/)
+    .map(e => e.replace(/^the +/, "").trim())
+    .filter(e => e)
+  ;
+
+  const json = s => JSON.stringify(s, null, 2);
+
+  console.log(json(await scrapeSFCM(favArtists)));
+  console.log(json(await scrapeTheList(favArtists)));
+  console.log(json(await scrapeBayImproviser(favArtists)));
 })()
   .catch(err => console.error(err))
 ;
