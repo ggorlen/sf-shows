@@ -27,4 +27,6 @@ jq -r '[[.items | .[] | .display_title | tostring | split(" - ") | first | ascii
 - For The List, fetch venue, date and price for any hits
 - Add UI/website
 - Add weekly GH action
-- Scrape C4NM, Gray Area, other venues not on the list. Also make sure local artists like striations get into the artists list, either by listening to them on discogs or adding them with a script.
+- Scrape C4NM, Gray Area, other venues not on the list
+- Add striations, rubber o, key west, jacob felix, nuclear death wish and other local bands
+
