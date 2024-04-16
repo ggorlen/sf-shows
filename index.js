@@ -5,10 +5,14 @@ const Levenshtein = require("levenshtein");
 require("util").inspect.defaultOptions.depth = null;
 
 
-const regexify = s => new RegExp(
-  s.replace(/\w+/g, m => `\\b${m}\\b`)
-   .replace(/ +/g, "\\s+")
-);
+const escapeRegexp = s =>
+  s.replace(/[-[\]{}()*+?.,\\^$|#\s]/g, '\\$&');
+
+const regexify = s =>
+  new RegExp(
+    escapeRegexp(s).replace(/\w+/g, m => `\\b${m}\\b`)
+     .replace(/ +/g, "\\s+")
+  );
 
 const scrapeSFCM = async favArtists => {
   const url = "https://sfcm.edu/performance-calendar";
@@ -69,12 +73,14 @@ const scrapeTheList = async favArtists => {
 
   const allMatches = [];
 
-  for (const a of favArtists.filter(e => e !== "non" && e !== "being")) {
+  for (const a of favArtists) {
     const current = {artist: a, matches: []};
 
     for (const {artist: b, href} of artists) {
-      if (a.length > 5 && b.length > 5 && 
-            (b.includes(a) || a.includes(b))) {
+      if (
+        a.length > 5 && b.length > 5 &&
+        (b.includes(a) || a.includes(b))
+      ) {
         current.matches.push({artist: b, href});
       }
       else {
@@ -99,14 +105,16 @@ const scrapeTheList = async favArtists => {
     .toString()
     .split(/\r?\n/)
     .map(e => e.replace(/^the +/, "").trim())
-    .filter(e => e)
-  ;
+    .filter(e => e);
 
   const json = s => JSON.stringify(s, null, 2);
 
-  console.log(json(await scrapeSFCM(favArtists)));
+  console.log("The List:");
   console.log(json(await scrapeTheList(favArtists)));
+  console.log("\nBay Improviser:");
   console.log(json(await scrapeBayImproviser(favArtists)));
+  console.log("\nSFCM:");
+  console.log(json(await scrapeSFCM(favArtists)));
 })()
   .catch(err => console.error(err))
 ;
