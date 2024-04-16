@@ -29,4 +29,5 @@ jq -r '[[.items | .[] | .display_title | tostring | split(" - ") | first | ascii
 - Add weekly GH action
 - Scrape C4NM, Gray Area, other venues not on the list
 - Add striations, rubber o, key west, jacob felix, nuclear death wish and other local bands
-
+- Use https://www.npmjs.com/package/fastest-levenshtein
+- Trim out bands I don't really care about seeing or who are defunct
