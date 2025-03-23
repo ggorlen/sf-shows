@@ -1,10 +1,10 @@
 # sf-shows
 
-Script for finding out which musicians I like are playing in the SF area soon.
+Script for finding out which musicians I like are playing in the SF area soon. My picks go [here](https://docs.google.com/document/d/1Q8H7kvvy82kApoI8KO1DR3IpXtKTQGLLifCmS2sunfA/edit?tab=t.0).
 
 Currently scraping:
 
-- [foopee's The List](http://www.foopee.com/punk/the-list/)
+- [foopee The List](http://www.foopee.com/punk/the-list/)
 - [Bay Improviser](https://www.bayimproviser.com/calendar.aspx)
 - [SFCM](https://sfcm.edu/performance-calendar)
 
@@ -25,15 +25,20 @@ jq -r '[[.items | .[] | .display_title | tostring | split(" - ") | first | ascii
 ### TODOs
 
 - For The List, fetch venue, date and price for any hits
-- Add UI/website
+- Use https://www.npmjs.com/package/fastest-levenshtein
+- Avoid false positives on Bay Improviser
+- Make an API
+- Download the list every week or month to archive it and make it searchable
+  - already done here: https://jon.luini.com/thelist/
 - Add weekly GH action
+- Add UI/website
 - Sites to scrape:
   - https://noontimeconcerts.org/
   - C4NM
-  - Gray Area
+  - Gray Area (actually seems already included)
   - Back Room (berkeley)
-  - https://noontimeconcerts.org/
   - https://dothebay.com/
-- Add striations, rubber o, key west, jacob felix, nuclear death wish and other local bands
-- Use https://www.npmjs.com/package/fastest-levenshtein
-- Trim out bands I don't really care about seeing or who are defunct
+- The list-related sites:
+  - https://jon.luini.com/thelist/
+  - https://linktr.ee/bayareametalshows
+- Add striations, rubber o, key west, commode minstrels, and other local bands
