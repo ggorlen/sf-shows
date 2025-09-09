@@ -8,18 +8,14 @@ Currently scraping:
 - [Bay Improviser](https://www.bayimproviser.com/calendar.aspx)
 - [SFCM](https://sfcm.edu/performance-calendar)
 
+Usage: `node index`
+
 ### Creating the artists.txt list
 
-Extract a list of stuff I've listened to:
+Extract a list of artists I've listened to:
 
 ```
-curl https://api.discogs.com/lists/633552 -o listened.json
-```
-
-Process the exported list (needs improvement):
-
-```
-jq -r '[[.items | .[] | .display_title | tostring | split(" - ") | first | ascii_downcase | gsub("\\(\\d+\\)"; "") | gsub("\\*"; "") | gsub("^ +| +$";"")] | unique  | .[] | split(" / "; "") | add] | unique | .[]' < listened.json > artists.txt
+bash download_artists_list.sh
 ```
 
 ### TODOs
@@ -41,4 +37,4 @@ jq -r '[[.items | .[] | .display_title | tostring | split(" - ") | first | ascii
 - The list-related sites:
   - https://jon.luini.com/thelist/
   - https://linktr.ee/bayareametalshows
-- Add striations, rubber o, key west, commode minstrels, and other local bands
+- Add rubber o, key west, commode minstrels, and other local bands

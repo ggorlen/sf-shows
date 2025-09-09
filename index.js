@@ -102,7 +102,7 @@ const scrapeTheList = async (favArtists, ignore) => {
   const favArtists = (await fs.promises.readFile("artists.txt", "utf-8"))
     .split(/\r?\n/)
     .map((e) => e.replace(/^the +/, "").trim())
-    .filter((e) => e && !ignore.has(e));
+    .filter((e) => e && !ignore.has(e) && e.length > 1);
 
   const json = (s) => JSON.stringify(s, null, 2);
 

@@ -1,5 +1,5 @@
-1
 311
+absolute body control
 ac/dc
 air
 air
@@ -15,8 +15,11 @@ boston
 bush
 caravan
 cex
+clock dva
 coil
 collective soul
+conrad schnitzler
+conrad schnitzler + wolf sequenza
 creed
 crowded house
 daryl hall & john oates
@@ -27,7 +30,9 @@ dio
 dome
 dropkick murphys
 earth, wind & fire
+elliott smith
 everclear
+field
 fleetwood mac
 gak
 galactic explorers
@@ -38,6 +43,7 @@ grace jones
 green day
 grim
 headboggle & vibrating garbage
+heart
 hole
 incubus
 international musique concrete assembly
@@ -59,7 +65,7 @@ low
 lowfish
 luke slater's 7th plain
 madonna
-madonna
+magazine
 mars volta
 medicine
 megadeth
@@ -76,11 +82,13 @@ pantera
 paul simon
 phish
 pink floyd
+pixies
 police
 public enemy
 red hot chili peppers
 rolf julius
 rolling stones
+s
 slayer
 smashing pumpkins
 soft cell
@@ -100,13 +108,17 @@ tuss
 tve
 ultra
 ur
+vibrating garbage
 violent femmes
+vivian girls
 weezer
+who
 windham hill artists
 wu-tang clan
 xiu xiu
 xx
 yeah yeah yeahs
+yeti
 zbigniew karkowski
 zola jesus
 zz top
