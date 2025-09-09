@@ -30,6 +30,7 @@ bash download_artists_list.sh
 - Add UI/website
 - Sites to scrape:
   - https://noontimeconcerts.org/
+  - https://thrillhouserecords.com/pages/calendar
   - C4NM
   - Gray Area (actually seems already included)
   - Back Room (berkeley)
