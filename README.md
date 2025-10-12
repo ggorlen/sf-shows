@@ -35,6 +35,7 @@ bash download_artists_list.sh
   - Gray Area (actually seems already included)
   - Back Room (berkeley)
   - https://dothebay.com/
+  - https://undergroundsf.com/events/
 - The list-related sites:
   - https://jon.luini.com/thelist/
   - https://linktr.ee/bayareametalshows
