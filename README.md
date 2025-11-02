@@ -32,6 +32,7 @@ bash download_artists_list.sh
   - https://noontimeconcerts.org/
   - https://thrillhouserecords.com/pages/calendar
   - C4NM
+  - https://upthecreekrecords.com/Events (already in the list)
   - Gray Area (actually seems already included)
   - Back Room (berkeley)
   - https://dothebay.com/
