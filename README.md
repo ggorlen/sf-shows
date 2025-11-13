@@ -29,6 +29,7 @@ bash download_artists_list.sh
 - Add weekly GH action
 - Add UI/website
 - Sites to scrape:
+  - https://19hz.info/
   - https://noontimeconcerts.org/
   - https://thrillhouserecords.com/pages/calendar
   - C4NM
