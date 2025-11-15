@@ -30,7 +30,10 @@ bash download_artists_list.sh
 - Add UI/website
 - Sites to scrape:
   - https://19hz.info/
+  - https://kfjc.org/events/concert-outlook
+  - https://www.kalx.berkeley.edu/event/events-november-10-16-2025/
   - https://noontimeconcerts.org/
+  - https://therehearsalstudio.blogspot.com/2025/11/the-bleeding-edge-11102025.html
   - https://thrillhouserecords.com/pages/calendar
   - C4NM
   - https://upthecreekrecords.com/Events (already in the list)
