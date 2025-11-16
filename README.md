@@ -41,6 +41,7 @@ bash download_artists_list.sh
   - Back Room (berkeley)
   - https://dothebay.com/
   - https://undergroundsf.com/events/
+  - https://www.instagram.com/prettygritty_sf/
 - The list-related sites:
   - https://jon.luini.com/thelist/
   - https://linktr.ee/bayareametalshows
