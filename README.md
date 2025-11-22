@@ -45,4 +45,5 @@ bash download_artists_list.sh
 - The list-related sites:
   - https://jon.luini.com/thelist/
   - https://linktr.ee/bayareametalshows
+  - https://github.com/RP2/bay-punks
 - Add rubber o, key west, commode minstrels, and other local bands
