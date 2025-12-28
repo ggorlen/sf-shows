@@ -29,13 +29,21 @@ bash download_artists_list.sh
 - Add weekly GH action
 - Add UI/website
 - Sites to scrape:
+  - https://19hz.info/
+  - https://kfjc.org/events/concert-outlook
+  - https://www.kalx.berkeley.edu/event/events-november-10-16-2025/
   - https://noontimeconcerts.org/
+  - https://therehearsalstudio.blogspot.com/2025/11/the-bleeding-edge-11102025.html
   - https://thrillhouserecords.com/pages/calendar
   - C4NM
+  - https://upthecreekrecords.com/Events (already in the list)
   - Gray Area (actually seems already included)
   - Back Room (berkeley)
   - https://dothebay.com/
+  - https://undergroundsf.com/events/
+  - https://www.instagram.com/prettygritty_sf/
 - The list-related sites:
   - https://jon.luini.com/thelist/
   - https://linktr.ee/bayareametalshows
+  - https://github.com/RP2/bay-punks
 - Add rubber o, key west, commode minstrels, and other local bands
