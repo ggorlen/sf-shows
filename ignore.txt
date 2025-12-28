@@ -2,22 +2,27 @@
 absolute body control
 ac/dc
 air
-air
+all
 all green lights
 alog
 american football
+amm
 archers of loaf
 barenaked ladies
 beach boys
+benge
 billy joel
+black flag
 bob dylan
 boston
+bucketheadland
 bush
 caravan
 cex
 clock dva
 coil
 collective soul
+come
 conrad schnitzler
 conrad schnitzler + wolf sequenza
 creed
@@ -27,32 +32,50 @@ daryl hall + john oates
 deafheaven
 devo
 dio
+dj dano
 dome
 dropkick murphys
+dry cleaning
 earth, wind & fire
 elliott smith
+evanescence
 everclear
 field
+fineautomatic
 fleetwood mac
+flux
+four tet
+friends
+fuse
 gak
 galactic explorers
 garbage and the flowers
 genesis
+genius
 gorse
 grace jones
 green day
 grim
+hated
 headboggle & vibrating garbage
 heart
+hell
+herb alpert
 hole
+hum
 incubus
 international musique concrete assembly
+iron maiden
 isaac willow
 jah wobble
 james taylor
+japan
 jaz
 jesus and mary chain
+judas priest
+karma
 kendrick lamar
+land
 lauryn hill
 lawrence ferlinghetti
 led zeppelin
@@ -70,9 +93,11 @@ mars volta
 medicine
 megadeth
 metallica
+mike
 moof
 national health
 new found glory
+noise
 non
 normal
 offspring
@@ -80,12 +105,14 @@ omd
 p.o.d.
 pantera
 paul simon
+phil collins
 phish
 pink floyd
 pixies
 police
 public enemy
 red hot chili peppers
+rhythm
 rolf julius
 rolling stones
 s
@@ -96,22 +123,28 @@ sparks
 spectrum
 spk
 stone temple pilots
+stranger
 suicidal tendencies
 suicide
 sum 41
+suzanne vega
 system
 the fall
 the stranger
 thievery corporation
 this mortal coil
+tony conrad
+tricky
 tuss
 tve
 ultra
 ur
+van morrison
 vibrating garbage
 violent femmes
 vivian girls
 weezer
+whitney houston
 who
 windham hill artists
 wu-tang clan

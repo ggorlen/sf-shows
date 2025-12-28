@@ -23,6 +23,7 @@ $oviet france
 Änglagård
 Ænigmatum
 Ø phase
+__ ___
 a
 a guy called gerald
 a mouse orchestra
@@ -30,6 +31,7 @@ a perfect circle
 a tribe called quest
 a. licht
 a. nakajima
+a.c.
 a.mochi
 a.n.p
 a.s.m.z.
@@ -42,6 +44,7 @@ absolute body control
 abstract thought
 abul mogard
 abwärts
+abyssal
 ac
 acetate zero
 achim wollscheid
@@ -53,12 +56,15 @@ actress
 adam wiltzie
 adolf wölfli
 adonis
+adramelech
 adrian belew
 adrian marcator
 adrian rew
 aeolian string ensemble
 aeon spoke
+aeon station
 aerial m
+aesop rock
 africa hitech
 afrika bambaataa
 after dark
@@ -69,6 +75,7 @@ agent cooper
 aghora
 agitation free
 aglaia
+agnostic front
 agonal lust
 agorà
 agoraphobic nosebleed
@@ -101,6 +108,7 @@ albert ayler trio
 albert marcœur
 albert van abbe
 alcatraz
+aled jones
 aleksi perälä
 alessandro cortini
 alex rodgers
@@ -120,6 +128,7 @@ allan holdsworth
 alog
 aloof proof
 alpenmarmot
+altar
 alva noto
 alva noto + ryuichi sakamoto
 alva noto feat. martin l. gore
@@ -137,6 +146,7 @@ amon düül ii
 amon tobin
 ampere
 anal blast
+anatomical amusements
 anbb
 and also the trees
 ando san
@@ -146,6 +156,7 @@ andreas martin
 andrés segovia
 andrew chalk
 andrew coleman
+andrew coltrane
 andrew cyrille
 andrew lee's heavy metal shrapnel
 andrew quitter
@@ -155,10 +166,12 @@ andrzej markowski
 andy drake
 andy stott
 anenzephalia
+angel of murder suicide
 angelo badalamenti
 angelo badalamenti and david lynch
 angus maclise
 aniello desiderio
+anika nilles
 animal collective
 animals on wheels
 animist orchestra
@@ -180,6 +193,7 @@ aphrodite's child
 aqsak maboul
 aquarelle
 aquarello
+arab on radar
 arab strap
 arcane device
 arch
@@ -207,9 +221,11 @@ association p.c. + jeremy steig
 assück
 aswara
 at the drive in
+at the gates
 at.the.drive.in
 atari teenage riot
 atheist
+atlantean kodex
 atom heart
 atomic rooster
 atom™
@@ -219,6 +235,7 @@ attention deficit
 aube
 aube and zbigniew karkowski
 audio one
+audioslave
 augustus pablo
 aussenminister
 autechre
@@ -240,9 +257,11 @@ bacillus
 backpatch
 bad brains
 bad sector
+bagmans
 baikida e.j. carroll
 balázs pándi
 balil
+balmora
 bam bam
 bananafish magazine
 banco del mutuo soccorso
@@ -253,6 +272,7 @@ bark psychosis
 barry cleveland
 barry cleveland featuring michael manring
 basic channel
+basic torture procedure
 bass communion
 bass communion featuring theo travis
 bastard noise
@@ -260,6 +280,8 @@ battiato
 battles
 bauhaus
 beastie boys
+beat happening
+beatie wolfe
 beck
 beck!
 bedhead
@@ -276,6 +298,7 @@ bernie krause
 bertoia
 besombes
 bette midler
+between the buried and me
 bgm
 big audio dynamite ii
 big black
@@ -301,6 +324,7 @@ black dog productions
 black eyes
 black flag
 black leather jesus
+black midi
 black mountain transmitter
 black sabbath
 black tambourine
@@ -324,6 +348,7 @@ blood stained concrete
 bloodyminded
 blower
 blue cheer
+blut aus nord
 bo anders persson
 bo hansson
 boar
@@ -337,9 +362,11 @@ bobby mcferrin
 bochum welt
 body carve
 body rot
+bodybox
 bogdan raczynski
 bola
 bolt thrower
+boltstein
 boredoms
 boredoms = ボアダムズ
 boris
@@ -352,7 +379,6 @@ boyd rice
 boyd rice and friends
 boys life
 brad strider
-bradley strider
 brahm
 braille party
 brainticket
@@ -380,24 +406,30 @@ brume
 bruno duplant
 bruno maderna
 brutal truth
+bryce eiman
 bucket full of teeth
 buckethead
 bucketheadland
 büdi und gumbls
 budweiser sprite
+built to spill
 burial
+burmese
 burning witch
 burnt friedman
 burzum
 bush
 butthole surfers
 buzzcocks
+bw
 c. c. hennix
 c.c.c.c.
+c.j.bolland
 c.s.s.o.
 c418
 c93
 cabaret voltaire
+cadaver
 camel
 can
 cannibal corpse
@@ -406,14 +438,32 @@ captain beefheart
 caravan
 carbon based lifeforms
 carcass
+carcass grinder
 carl
 carl michael von hausswolff
 carl stone
 carles santos
 carlos niño
+carnage
 carnivore.
+caroliner
+caroliner rainbow brain tool imbued with rust and mold
+caroliner rainbow customary relaxation of the shale
+caroliner rainbow fingers of the underground
+caroliner rainbow gems you poop out
 caroliner rainbow grace blocks used in the placement of the personality
+caroliner rainbow gumkuppers
+caroliner rainbow hands replaced by oversized rocks
+caroliner rainbow hernia milk queen
+caroliner rainbow open wound chorale
 caroliner rainbow scrambled egg taken for a wife
+caroliner rainbow snake tailed waxwalker
+caroliner rainbow solid handshake
+caroliner rainbow stand still or fight beans and sunstroke
+caroliner rainbow stewed angel skins
+caroliner rainbow susans and bruisins
+caroliner rainbow wire thin sheep legs baking exhibit
+carrier
 cartilage
 casiopea
 cat power
@@ -429,19 +479,25 @@ celso alberti
 cementimental
 cemetery filth
 cerebral rot
+ceremonial bloodbath
 cervello
 cevin key
 cex
 chad wackerman
 chained to the bottom of the ocean
+chameleons
 chance the rapper
 channel light vessel
 chapterhouse retranslated by global communication
+charalambides
 charanjit singh
+charcuterie
 charlemagne palestine
 charles bronson
 charles mingus
+charli xcx
 charlie haden
+charred remains a.k.a man is the bastard
 chat pile
 chelsea wolfe
 chemin!
@@ -453,6 +509,7 @@ chora(s)san time court mirage
 chris
 chris and cosey
 chris carter
+chris connelly
 chris watson
 christ.
 christian death
@@ -460,14 +517,17 @@ christian heckel
 christian marclay
 christian vander
 christian wolff
+christina carter
 christina vantzou
 christine 23 onna
 christoph heemann
 christophe coin
 chrome
 chrome genie
+chrystal belle scrodd
 chuck johnson
 chuck mangione
+chumbawamba
 cigarbox planetarium
 circæa
 circle
@@ -475,9 +535,11 @@ citipati
 city of birmingham symphony orchestra
 city of caterpillar
 city of worms
+claire rousay
 clams casino
 clan of xymox
 clang quartet
+clark
 claude young
 claus ogerman
 cleaners from venus
@@ -491,6 +553,7 @@ coagulator
 coalesce
 cocteau twins
 codeine
+coffin prick
 coffins
 coh
 coheed and cambria
@@ -506,10 +569,12 @@ collective soul
 comando bruno
 come
 comes • veldman
+commode minstrels in bullface
 commodores
 comus
 con artist
 concept 1
+concern
 concussive
 confetti's
 conflict
@@ -533,6 +598,7 @@ core
 core + biasin stefano
 core + trigger b
 coriky
+corpus offal
 corrupted
 cosey
 cosmic couriers
@@ -540,6 +606,7 @@ cousin kevin
 coward
 coyote oldman
 cozmic corridors
+cp
 craig chaquico
 craig kupka
 craig leon
@@ -552,13 +619,17 @@ creed
 creedence clearwater revival
 cripple bastards
 crisis
+crispin hellion glover
 cristian vogel
 crowded house
 crown of cerberus
 cruciamentum
 crunch
 crustacés tapes
+cruudeuces
+cryocene
 cultural decay
+culturcide
 cupol
 curd duca
 curley
@@ -576,6 +647,7 @@ cv
 cybotron
 cyclo.
 cyclobe
+cylobotnia
 cyndi lauper
 cynic
 cyrus
@@ -584,18 +656,22 @@ czukay
 d
 d bakl
 d'angelo
+d'arcangelo
 d. moebius
 dabrams
+daft punk
 dag nasty
 daily fauli
 daisuke suzuki
 daler mehndi
 damenbart
 dan hartman
+dana schechter
 daniel (a.i.u.) higgs
 daniel bell
 daniel blomquist
 daniel lanois
+daniel lippel
 daniel lopatin
 daniel menche
 daniel menche + aaron turner
@@ -615,6 +691,7 @@ dave kerman > 5uu's
 dave liebman
 dave phillips
 dave phillips (ex. fear of god
+dave soldier
 david
 david behrman
 david benoit
@@ -647,7 +724,10 @@ de fabriek
 dead body love
 dead can dance
 dead congregation
+dead cross
+dead machines
 dead meadow
+deadpressure
 deadseraphim
 deafheaven
 dean
@@ -665,6 +745,7 @@ decapitated
 deepchord presents echospace
 deerhoof
 def leppard
+defeated sanity
 déficit des années antérieures
 deftones
 deicide
@@ -674,6 +755,7 @@ demdike stare
 demolition hammer
 dennis johnson
 depeche mode
+depravity
 der blutharsch
 der kfc
 der plan
@@ -708,10 +790,12 @@ dieform
 dilloway
 dio
 dirk serries
+dirty three
 discharge
 disciples of annihilation
 disco inferno
 discordance axis
+disentomb
 disgorge
 dissecting table
 dix bruce
@@ -721,6 +805,8 @@ dj funk
 dj python
 dj screw
 dj shadow
+dj spooky that subliminal kid
+djam karet
 dna
 do make say think
 doenado el ur
@@ -763,14 +849,17 @@ droughter
 drowning in lethe
 drudkh
 drum komputer
+dry cleaning
 duane pitre
 dün
 dusa
 dying fetus
+dylan nyoukis
 dynamite hack
 dystopia
 dz lectric
 e.g oblique graph
+ea
 earle brown
 early humans
 earn
@@ -790,6 +879,7 @@ eduardo polonio
 edward artemyev
 edward ka spel
 edward larry gordon
+eeyore ass guzzler
 egg
 egg hunt
 eggshell repair kit
@@ -802,6 +892,7 @@ el aviador dro
 eliane radigue
 elite gymnastics
 elizabeth fraser
+elliot simpson
 elliott smith
 elodie
 elph vs coil
@@ -827,10 +918,12 @@ enrico piva
 ensemble kluster
 entombed
 entre vifs
+envenomist
 eptic
 eric clapton
 eric lanzillotta
 eric sanchez
+erik hammarström
 erik wøllo
 erika oba trio
 ernesto diaz infante
@@ -851,8 +944,10 @@ evenings
 eventless plot
 everclear
 everyday loneliness
+evicshen
 evol
 exhumed
+exist
 exit north
 exit unit
 exivious
@@ -869,8 +964,11 @@ f a.r.
 f.o.e #1
 fabio frizzi
 fabio perletta
+fabricant
+failed treatment
 fairport convention
 faith no more
+fall out boy
 falt
 family
 fantômas
@@ -892,6 +990,7 @@ fentanyl
 ferial confine
 fetid
 fetisch park
+ffh
 fidelity jones
 filament
 filter
@@ -899,7 +998,9 @@ fine young cannibals
 fineautomatic
 fire
 fire escape
+first day back
 fish
+flagitious idiosyncrasy in the dilapidation
 flanger
 fleetwood mac
 fleshwater
@@ -912,6 +1013,7 @@ flower corsano duo
 flower travellin' band
 flowing stream trio
 fluence
+fluids
 flux
 flux of pink indians
 fluxion
@@ -919,15 +1021,18 @@ fly pan am
 flying saucer attack
 focus
 foetus
+foetus interruptus
 folke rabe
 foo fighters
 food for animals
+forced to suffer
+forest drive west
 forever forever
 formen
 four tet
 fractal universe
 france
-francesco currá
+francesco currà
 francis dhomont
 francis gorgé
 francis of delirium
@@ -977,6 +1082,7 @@ gainsbourg
 gak
 galactic explorers
 gallivan
+galvanizer
 gamelan sekar jaya
 gamelan son of lion
 games
@@ -996,7 +1102,10 @@ gene delisa
 genesis
 genius
 genocide organ
+genocide pact
 gentle giant
+geordie greep
+geordie greep official
 george benson
 george carlin
 george michael
@@ -1009,14 +1118,17 @@ german oak
 germs
 gerogerigegege
 gerogerogegege
+gerry hannah
 gescom
 geso
+gg allin
 ghédalia tazartès
 ghost
 ghost to falco
 ghostface killah
 giancarlo toniutti
 giancarlo toniutti with siegmar fricke
+gigan
 gil scott heron
 gila
 giles
@@ -1038,6 +1150,7 @@ god is war
 god speed you black emperor!
 god's pee
 godflesh
+godkiller
 godsmack
 godspeed you black emperor!
 godspeed you! black emperor
@@ -1057,20 +1170,24 @@ government issue
 government α
 grace jones
 graeme revell
+graham lambkin
 grand union
 grant evans
 gräs och stenar
 grateful dead
 grauzone
 grave infestation
+graveyards
 grayson revoir
 great falls
 greater than one
 green day
+green tea
 greenslade
 greg gorlen
 greg howard
 greg howard band
+gregor samsa
 greyhound
 gridlink
 grief
@@ -1086,6 +1203,7 @@ grungerman
 gruppo di improvvisazione nuova consonanza
 gryphon
 guapo
+gub
 gubaidulina – anne sophie mutter
 guillaume pierrat
 guiltless
@@ -1096,6 +1214,7 @@ gurgelstock
 gurgelstøck
 guru freakout
 guru guru
+gvillotina
 gza
 h. keiji
 h.n.a.s.
@@ -1148,6 +1267,7 @@ heckdorlan
 hecker
 hecq
 hector zazou
+heel turn
 hefner
 heldon
 hell
@@ -1171,18 +1291,22 @@ hermit in a rave cave
 heroin
 hespèrion xx
 hey exit
+hideaki nakama
 hideg roncs
 higher intelligence agency
 hildegard von bingen
 hirono nishiyama
 hiroshi kawaguchi
+hiroshi sato
 hiroshi yoshimura
 hirsche nicht aufs sofa
+his chorus and orchestra
 his hero is gone
 his magic band
 his name is alive
 hit run drivers
 hitoshi kojo
+hke x zomby
 hoelderlin
 hölderlin
 hole
@@ -1196,6 +1320,7 @@ hopkinson smith
 hopper
 horaflora
 horseflesh
+hostage pageant
 hototogisu
 houkago grind time
 household gods
@@ -1217,6 +1342,7 @@ i.e.m.
 ian carr with nucleus
 ian carr's nucleus
 ian dury and the blockheads
+ian thompson
 ian william craig
 iasos
 ibiza shock troops
@@ -1231,6 +1357,7 @@ ilhan mimaroglu
 illusion of safety
 ilyas ahmed
 immortal
+imprecation
 impregnable
 in camera
 in gowan ring
@@ -1243,17 +1370,22 @@ indian summer
 indignant senility
 infaust
 infected mushroom
+infester
 infinexhuma
+infinity land
 infinity window
 infrasound
 inga copeland
 ingram marshall
 inqilab
+insect warfare
+instant automatons
 international musique concrete assembly
 intersystems
 intrinsic action
 intrinsic maleficence
 ioss
+iq
 iron lung
 iron maiden
 isengrind
@@ -1286,6 +1418,7 @@ james brown
 james ferraro
 james fulkerson
 james plotkin
+james ruskin
 james taylor
 james tenney
 james white
@@ -1293,11 +1426,14 @@ jamie muir
 jammin' the house gerald
 jan schulte
 jandek
+jane's addiction
 jannick top
 jansen barbieri karn
 japan
+jarboe
 jason hayes
 jason lescalleet
+jason letkiewicz
 jawbox
 jawbreaker
 jaz
@@ -1322,6 +1458,7 @@ jeromes dream
 jerry hunt
 jerry martin
 jessamine
+jesse paul miller
 jessie allen cooper
 jesu
 jethro tull
@@ -1330,6 +1467,7 @@ jim henson
 jim matheos
 jim o'rourke
 jlin
+joanne robertson
 jochem paap
 joe bag
 joe colley
@@ -1371,6 +1509,7 @@ jon gibson
 jon hassell
 jon mccafferty
 jon mueller
+jonas hellborg with buckethead and michael shrieve
 jonathan coleclough
 jonathan coleclough • bass communion • colin potter
 joni mitchell
@@ -1379,6 +1518,7 @@ jörg burger
 jörg thomasius
 josé ignacio valdés
 joseph edward yonker
+josh burke
 joshua rifkin
 joy division
 jr.
@@ -1394,6 +1534,7 @@ junji hirose
 junji hirose + yoshihide otomo
 jürgen paape
 jussi lehtisalo
+k
 k salvatore
 k. jenkins
 k. leimer
@@ -1413,12 +1554,14 @@ kapottemuziek
 kapsberger
 karate
 karate!
+karen constance
 karlheinz stockhausen
 karlheinz stockhausen michael gielen
 karma
 karma moffett
 kas mana
 kasper t. toeplitz
+kassel jaeger
 kate bush
 katia et marielle labèque
 kayo dot
@@ -1446,6 +1589,7 @@ kid koala
 kid606
 kilchhofer
 kill yourself
+killing addiction
 killing joke
 kim cascone
 kim cascone + jason kahn + steinbrüchel
@@ -1461,6 +1605,7 @@ klaus wiese
 kleistwahr
 kluster
 kmfdm
+kmru
 knelt rote
 knit prism
 knurl
@@ -1489,10 +1634,13 @@ kreator
 kris fox
 kris vanderstraeten
 krisiun
+krm
 krypt axeripper
 krypts
 ktl
 kuusumun profeetta
+kyle eyre clyd
+kyle flanagan
 kyle gann
 kyle h. mabson
 kyuss
@@ -1528,6 +1676,7 @@ led zeppelin
 lee gamble
 lee ritenour
 leech
+legendary pink döts
 legowelt
 legowelt vs. orgue electronique
 leila abdul rauf
@@ -1537,7 +1686,6 @@ leonard cohen
 les asociaux associés
 les baxter
 les baxter and his orchestra
-les baxter his chorus and orchestra
 les claypool's frog brigade
 les rallizes dénudés
 lewis
@@ -1559,14 +1707,18 @@ linkin park
 liquid dinner
 liquid tension experiment
 lit
+little annie
 little feat
 living weapon
 lloyd mcneill
 locanda delle fate
+locust
 loessland
 loidis
+loose 2 pins
 loren connors
 loren connors and bill orcutt
+los thuthanaka
 loscil
 lost shadow
 lotus eaters
@@ -1623,7 +1775,10 @@ mal sharpe
 malcolm x
 male compliments
 male rape group
+malevolent creation
 malignant altar
+man is the bastard
+man is the bastard noise
 manfred mann chapter three
 manfred werder
 mania
@@ -1637,12 +1792,14 @@ marble sky
 marc hollander
 marc russo
 marc sabat
+marcel cellier présente le mystère des voix bulgares
 marcos resende
 marehelm
 mariah
 marian zazeela
 marillion
 marin marais
+mark broom
 mark fell
 mark hollis
 mark lord
@@ -1666,6 +1823,7 @@ másik jános
 maso yamazaki (masonna)
 masonna
 massimo toniutti
+master
 mastodon
 masvidal
 matching mole
@@ -1683,6 +1841,7 @@ mauthausen orchestra
 max eastley
 max mcferren
 mayhem
+mazzy star
 mcdonald and giles
 meat beat manifesto
 meat puppets
@@ -1701,6 +1860,7 @@ merzan
 merzbow
 merzbow + richard ramirez
 merzbow + s
+mescalinum united
 meshuggah
 metabolist
 metal boys
@@ -1709,6 +1869,7 @@ metal urbain
 metallica
 metamorphosis
 metgumbnerbone
+meth.
 metin alatlı
 mev
 mf doom
@@ -1775,6 +1936,7 @@ mobb deep
 moby
 model 500
 model 81
+modelbau
 moe kamura
 moe.
 moebius
@@ -1784,6 +1946,7 @@ mogwai
 molena with the rita
 monde bruits
 monks of the dip tse chok ling monastery
+monnier
 monoloc
 monopoly child star searchers
 monos
@@ -1793,8 +1956,11 @@ moof
 moon phantoms
 moraz
 morbid angel
+more eaze
 morgan egg
 morgenstern
+morgue
+morpheus descends
 morphine
 morrissey
 mort garson
@@ -1820,6 +1986,8 @@ mr. mister
 msbr
 mu
 mundo animal
+muntjac
+muraglia
 murcof
 museo rosenbach
 musica elettronica viva
@@ -1838,6 +2006,7 @@ naked eyes
 nanjo asahito
 napalm death
 napoléon coste
+napoleon xiv
 narada artists
 nas
 nasum
@@ -1845,6 +2014,7 @@ nathan navarro
 national health
 natural snow buildings
 nature and organisation
+nautical kites
 nazoranai
 nazoranai = なぞらない
 neal acree
@@ -1876,6 +2046,7 @@ nigredo
 nile
 nils mosh
 nine days
+nine dog dick
 nine inch nails
 nino ferrer
 nirvana
@@ -1933,6 +2104,7 @@ oneohtrix point never
 opal
 open yellow circle
 operating theatre
+operation ivy
 opeth
 optical
 orbital
@@ -1945,6 +2117,7 @@ organisation
 organum
 orgue electronique
 origami erotika
+orne
 orphan fairytale
 orthrelm
 ortrotasce
@@ -1952,6 +2125,7 @@ oscar reynolds
 oscillating innards
 osso exótico
 osso exótico + z'ev
+otay onii
 other skies
 otomo yoshihide
 outkast
@@ -1987,17 +2161,20 @@ paranoid time
 parasitic infestation
 pärson sound
 pascal comelade
+passion killers
 pat metheny group
 patrick vian
 paul dresher
 paul hardcastle
 paul horn
+paul ion barker
 paul kelday
 paul o'dette
 paul panhuysen
 paul panhuysen and the galvanos
 paul paul
 paul simon
+paul wallfisch
 pauline oliveros
 pavement
 paw grabowski
@@ -2017,6 +2194,7 @@ perception
 percy jones
 percy jones ensemble
 pere ubu
+performing ferret band
 person unknown
 pest control
 pestilence
@@ -2041,6 +2219,7 @@ pgr
 phantom band
 pharaoh overlord
 pharaoh overlord + aaron turner
+pharmacist
 pharmakon
 pharoah sanders
 phil collins
@@ -2057,10 +2236,12 @@ phill niblock
 philus
 phish
 phobia
+phobophilic
 photek
 phrenelith
 phuture
 piano magic
+picchio dal pozzo
 pier luigi andreoni and francesco paladino
 pierpaolo zoppo
 pierre courbois
@@ -2095,17 +2276,21 @@ porte
 porter ricks
 portion control
 portishead
+portraits of past
 power pill
+praxis
 prayer
 prefab sprout
 prefuse 73
 premature ejaculation
 premiata forneria marconi
+primal scream
 primitive isolation tactics
 primitive man
 primitive radio gods
 primus
 prince and the revolution
+priori
 proclamation plague
 prodigy
 produktion
@@ -2115,14 +2300,17 @@ projekct x
 protein den
 prurient
 pseudo code
+psychic limb
 psychic rally
 psychic tv
 public enemy
 public image
 public image ltd.
+puce mary
 pulse emitter
 pure
 purple mountains
+puscifer
 pyosalpinx
 pyrolator
 pyrrhon
@@ -2130,8 +2318,10 @@ q and not u
 quadrant
 quantec
 quatuor bozzini
+queen
 queensrÿche
 quench
+r
 r zac 23
 r. h.y. yau
 r. k. faulhaber
@@ -2148,7 +2338,10 @@ ramananda
 ramleh
 rammstein
 ramsey lewis
+ramuh
+randall dunn
 randy h.y. yau
+rangers
 rapoon
 rat cage
 rättö ja lehtisalo
@@ -2176,10 +2369,12 @@ renziehausen
 retaliation
 reuter
 rev. a.w. nix and his congregation
+revolting cocks
 reynols
 rg rough
 rhesus o
 rhodri davies
+rhythm
 ricardo villalobos
 riccardo chailly
 rich
@@ -2190,6 +2385,7 @@ richard ramirez
 rick corrigan
 rie nakajima
 right brain audile
+riket
 rinus van alebeek
 ripped to shreds
 rites of spring
@@ -2197,6 +2393,7 @@ riuichi sakamoto
 riuichi sakamoto = 坂本龍一
 rk faulhaber
 rlw
+robag wruhme
 robbie avenaim
 robert ashley
 robert curgenven
@@ -2234,6 +2431,10 @@ rose mcdowall
 ross wallace chait
 rossini
 rot
+rotten sound
+rotting christ
+rottrevore
+round one to round five
 rowlf
 roy ayers ubiquity
 röyksopp
@@ -2273,11 +2474,13 @@ samla mammas manna
 sand
 sandy bull
 sandy ewen
+sanguisugabogg
 sarah benson
 sarah davachi
 sascha muller
 satanic abandoned rock
 savant
+sawn half
 saxofonettes
 saxophonettes
 scanner
@@ -2305,6 +2508,7 @@ sean meehan
 sebadoh
 secret chiefs 3
 section 25
+sedimentum
 seefeel
 seesselberg
 sema
@@ -2320,7 +2524,9 @@ serge gainsbourg
 seth nehil
 severed heads
 sewer election
+sex pistols
 shackleton
+shadow project
 shane parish
 shellac
 shinichi atobe
@@ -2328,12 +2534,16 @@ shinji yoshimura
 shinjuku thief
 shirley collins
 shiroc
+shit and shine
 shizuo
 shpongle
+shredded nerve
 shrimp
 shub niggurath
+shudder to think
 shylock
 sibylle baier
+sick llama
 sickness of snakes
 siege
 siegfried kessler
@@ -2348,10 +2558,12 @@ sinéad o'connor
 sinister
 sinister feeling
 siouxsie and the banshees
+sissisters
 six organs of admittance
 sixteen horsepower
 sixth comm
 skee mask
+skeletal remains
 skewbald
 skin graft
 skin horse
@@ -2359,6 +2571,8 @@ skinny puppy
 skiplife
 skullflower
 skullsmasher
+skulmagot
+sky limousine
 slag boom van loon
 slayer
 sleep
@@ -2386,10 +2600,14 @@ sol invictus
 solaria
 solid space
 solmania
+solo organ
 somei satoh
 sonic youth
 sonmi451
 sonny rollins
+sore dream
+soul coughing
+sound
 soundgarden
 southkill
 soviet france
@@ -2407,6 +2625,7 @@ spectrum
 spectrum meets captain memphis
 spencer nilsen
 spider compass good crime band
+spine scavenger
 spiracle
 spiral architect
 spiral tribe
@@ -2417,6 +2636,7 @@ spraydog
 spy
 squarepusher
 stapleton
+stardust
 stars of the lid
 stars of the lid w
 stasis duo
@@ -2430,6 +2650,7 @@ stephan mathieu . ekkehard ehlers
 stephan mathieu and david sylvian
 stephen malkmus and friends
 stephen mallinder
+sterac
 stereolab
 steroid maximus
 steve beresford
@@ -2443,17 +2664,22 @@ steven stapleton
 steven stapleton • david tibet
 steven wilson
 stevie ray vaughan and double trouble
+stick men
 stiff kittens
 still house plants
 stock
 stone temple pilots
+storm corrosion
 strafe
+stray trolleys
 stress ghetto
 striations
+strider. b.
 stroke 9
 struggler
 stuart dempster
 studio 1
+subtonal
 suffocation
 suicidal tendencies
 suicide
@@ -2465,6 +2691,7 @@ sun ra
 sun ra and his astro infinity arkestra
 sun ra and his myth science arkestra
 sun ra and his solar myth arkestra
+sun's signature
 sunn o)))
 sunny day real estate
 sunroof!
@@ -2488,6 +2715,8 @@ swans
 swastika kommando
 sweat lodge
 sweelinck
+sweguno
+swell maps
 swervedriver
 swirlies
 sylvain chauveau
@@ -2505,9 +2734,11 @@ systems
 systems officer
 szemző tibor
 t. hecker
+t. mikawa
 t. 磯谷
 t.j. borden
 tachycardie
+tack»head
 tactile
 taeko ohnuki = 大貫妙子
 taeko onuki
@@ -2524,8 +2755,10 @@ tam quam tabula rasa
 tamaryn
 tangerine dream
 tanner garza
+tanz mein herz
 tape loop orchestra
 tarkatak
+tartar lamb ii
 tarwater
 tashi dorji + aaron turner
 tavshed
@@ -2539,6 +2772,8 @@ tee lopes
 teitanblood
 telefon tel aviv
 telepherique
+television personalities
+temora
 temple of the dog
 terekke
 terrace of memories
@@ -2556,7 +2791,7 @@ tetsuo furudate + zbigniew karkowski
 tetuzi akiyama
 tetuzi akiyama + toshimaru nakamura
 text
-thai elephant orchestra with dave soldier
+thai elephant orchestra
 the aeolian string ensemble
 the american analog set
 the aphex twin
@@ -2581,6 +2816,7 @@ the cherry point
 the chick corea elektric band
 the church
 the clash
+the cleaners from venus
 the conet project
 the congos
 the cosmic jokers
@@ -2597,6 +2833,7 @@ the dillinger escape plan
 the dillinger escape plan with mike patton
 the dismemberment plan
 the dolphin brothers
+the dukes of stratosphear
 the durutti column
 the dust brothers
 the dylan group
@@ -2610,6 +2847,7 @@ the field mice
 the fire theft
 the flaming lips
 the flashbulb
+the for carnation
 the fucking am
 the future sound of london
 the gang
@@ -2643,6 +2881,7 @@ the klf
 the knife
 the league of gentlemen
 the legendary pink dots
+the legendary pink döts
 the listing attic
 the lost jockey
 the mahavishnu orchestra with john mclaughlin
@@ -2650,11 +2889,15 @@ the mars volta
 the master musicians of jajouka featuring bachir attar
 the mausoleums
 the melting paraiso u.f.o.
+the mercury tree
+the mercury tree + cryptic ruse
 the michael garrick sextet with norma winstone
 the microphones
 the moon lay hidden beneath a cloud
 the mothers of invention
+the necessaries
 the necks
+the nevari butchers
 the new blockaders
 the new sadism
 the new tony williams lifetime
@@ -2675,7 +2918,9 @@ the prunes
 the pupils
 the residents
 the rita
+the river
 the roots feat. bilal
+the routes
 the saxophonettes
 the sea and cake
 the seatbelts = シートベルツ
@@ -2696,6 +2941,7 @@ the soul sonic force music by planet patrol
 the state
 the stone roses
 the stranger
+the stray trolleys
 the system
 the tear garden
 the teen idles
@@ -2715,6 +2961,7 @@ the wrens
 the xx
 the zombies
 thee temple ov psychick youth
+their unbreakable bones
 theo parrish
 theo travis
 theories of forgetting
@@ -2723,19 +2970,25 @@ thievery corporation
 thin lizzy
 third ear band
 third eye blind
+third organ
+thirdorgan
 this heat
 this mortal coil
 thom yorke
+thomas bangalter
 thomas brinkmann
 thomas dinger
+thomas fehlmann
 thomas köner
 thomas tallis
 thomas tilly
 thorn bug
 thou
+thou art lord
 thought gang
 three 6 mafia
 throbbing gristle
+thrones
 thx113
 tibet
 tibor szemző
@@ -2775,6 +3028,7 @@ tomoko sauvage
 tomutonttu ja lehtisalo
 ton koopman
 tones on tail
+tongue depressor + austin larkin
 toni esposito
 tonie marshall
 tony conrad
@@ -2828,6 +3082,7 @@ ultra
 ultras
 ultravox
 ulver
+unbroken
 unicazürn
 univeria zekt
 univers zero
@@ -2842,6 +3097,7 @@ v
 vaccine
 vader
 vainqueur
+valentina magaletti
 valerie's garten
 van der graaf
 van der graaf generator
@@ -2850,8 +3106,10 @@ van kaye
 van morrison
 vankmen
 vantzou
+varathron
 various
 vastum
+vatican shadow
 vein.fm
 vektor
 vend
@@ -2870,8 +3128,10 @@ vile rites
 village people
 villalobos
 vince guaraldi
+violation wound
 violent femmes
 violent onsen geisha
+virgin mother
 virgin prunes
 virgo
 virgo four
@@ -2899,6 +3159,7 @@ wallmaster
 walter carlos
 wanda group
 wappenbund
+warning
 warren zevon
 wassermann
 water torture
@@ -2941,6 +3202,7 @@ wobble
 wolf eyes
 wolfers
 wolfgang voigt
+woodpatty the chicken climber
 work
 world peace
 worm
@@ -2951,13 +3213,17 @@ wu tang clan
 wurzelbewußtsein
 włodzimierz kotoński
 x
+xasthur
+xclocktowerx
 xenakis
 xhol
 xhol caravan + current ninety three
 xiu xiu
+xnomadx
 xome
 xtc
 xtematic
+y.m.o.
 yage
 yas kaz
 yasuaki shimizu
@@ -2980,6 +3246,7 @@ yma sumac
 ymo
 yo la tengo
 yob
+yochk'o seffer
 yochk'o seffer neffesh music
 yoko kanno = 菅野よう子
 yoko ono
@@ -3002,8 +3269,10 @@ zelienople
 zeni geva
 zero kama
 zev
+zizi
 znr
 zola jesus
+zombie sneak attack
 zomby
 zomes
 zos kia
@@ -3030,6 +3299,7 @@ zz top
 西岡恭蔵 with 細野晴臣
 こじょう ひとし
 ハナタラシ
+友川かずき
 明田川荘之
 イノヤマランド = inoyama land
 すぎやまこういち
