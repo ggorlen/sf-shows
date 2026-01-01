@@ -39,6 +39,8 @@ bash download_artists_list.sh
   - https://upthecreekrecords.com/Events (already in the list)
   - Gray Area (actually seems already included)
   - Back Room (berkeley)
+  - https://www.sfems.org/
+  - https://www.berkeleyfestival.org/
   - https://dothebay.com/
   - https://undergroundsf.com/events/
   - https://www.instagram.com/prettygritty_sf/
