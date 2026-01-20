@@ -44,6 +44,9 @@ bash download_artists_list.sh
   - https://dothebay.com/
   - https://undergroundsf.com/events/
   - https://www.instagram.com/prettygritty_sf/
+  - https://www.calbach.org/tickets
+  - https://noontimeconcerts.org/
+  - https://www.tactus-sf.org/
 - The list-related sites:
   - https://jon.luini.com/thelist/
   - https://linktr.ee/bayareametalshows
