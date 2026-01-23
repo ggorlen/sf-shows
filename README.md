@@ -47,6 +47,8 @@ bash download_artists_list.sh
   - https://www.calbach.org/tickets
   - https://noontimeconcerts.org/
   - https://www.tactus-sf.org/
+  - https://www.coyotemedia.org/tag/calendar/
+  - https://medicinefornightmares.com/
 - The list-related sites:
   - https://jon.luini.com/thelist/
   - https://linktr.ee/bayareametalshows
