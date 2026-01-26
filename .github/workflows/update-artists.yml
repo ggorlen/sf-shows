@@ -1,0 +1,24 @@
+name: Update Artists List
+
+on:
+  schedule:
+    # Runs at 00:00 UTC on the 1st of every month
+    - cron: "0 0 1 * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download and process artists list
+        run: ./download_artists_list.sh
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet artists.txt || (git add artists.txt && git commit -m "Update artists.txt from Discogs" && git push)
