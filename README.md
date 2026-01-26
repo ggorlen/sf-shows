@@ -1,5 +1,8 @@
 # sf-shows
 
+[![Run Scraper](https://img.shields.io/badge/Run-Scraper-blue?style=for-the-badge)](https://github.com/ggorlen/sf-shows/actions/workflows/run-scraper.yml)
+[![Update Artists](https://img.shields.io/badge/Update-Artists-green?style=for-the-badge)](https://github.com/ggorlen/sf-shows/actions/workflows/update-artists.yml)
+
 Script for finding out which musicians I like are playing in the SF area soon. My picks go [here](https://docs.google.com/document/d/1Q8H7kvvy82kApoI8KO1DR3IpXtKTQGLLifCmS2sunfA/edit?tab=t.0).
 
 Currently scraping:
