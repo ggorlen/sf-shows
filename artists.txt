@@ -175,6 +175,7 @@ animal collective
 animals on wheels
 animist orchestra
 anla courtis
+anna von hausswolff
 anne williams
 annette peacock
 anode
@@ -417,6 +418,7 @@ budweiser sprite
 built to spill
 burial
 burmese
+burn pile
 burnin red ivanhoe
 burning witch
 burnt friedman
@@ -511,6 +513,7 @@ chemin!
 chet baker
 chick corea elektric band ii
 child's view
+choi joonyong
 chop shop
 chora(s)san time court mirage
 chris
@@ -537,6 +540,7 @@ chuck mangione
 chumbawamba
 cigarbox planetarium
 circle
+circus lupus
 circæa
 citipati
 city of birmingham symphony orchestra
@@ -572,6 +576,7 @@ coldharbourstores
 colin edwin
 colin newman
 colin potter
+collapsed skull
 collective soul
 comando bruno
 come
@@ -761,6 +766,7 @@ delphium
 delta 9
 demdike stare
 demolition hammer
+deniece williams
 dennis johnson
 depeche mode
 depravity
@@ -864,6 +870,7 @@ drowning in lethe
 drudkh
 drum komputer
 dry cleaning
+dry socket
 duane pitre
 duet emmo
 dusa
@@ -1023,6 +1030,7 @@ first day back
 fish
 flagitious idiosyncrasy in the dilapidation
 flanger
+flashbulb memory
 fleetwood mac
 fleshwater
 flipper
@@ -1403,6 +1411,7 @@ index
 indian soundscapes
 indian summer
 indignant senility
+inextremis
 infaust
 infected mushroom
 infester
@@ -1432,6 +1441,7 @@ issac willow
 it's always last tuesday somewhere
 itäväylä
 iugula thor
+ivan seal
 j. peter schwalm
 j.k. randall with paul zukofsky
 j.r. monterose
@@ -1503,9 +1513,9 @@ jesu
 jethro tull
 jim gaffigan
 jim haynes
-jim henson
 jim matheos
 jim o'rourke
+jin sangtae
 jlin
 joanne robertson
 jochem paap
@@ -1556,6 +1566,7 @@ joni mitchell
 jordi savall
 joseph edward yonker
 josh burke
+joshua fit for battle
 joshua rifkin
 josé ignacio valdés
 joy division
@@ -1605,6 +1616,7 @@ kassel jaeger
 kate bush
 kath bloom
 katia et marielle labèque
+kawaguchi takahiro
 kayo dot
 kazumi watanabe
 kd
@@ -1688,6 +1700,7 @@ kyle h. mabson
 kyuss
 l'occhio dietro la parete
 l.o.s.d.
+l.o.t.i.o.n.
 la monte young
 la sonorité jaune
 la! neu?
@@ -1898,6 +1911,7 @@ mekanik kommando
 melissa pons
 melt banana
 melvins
+memories of machines
 mercyful fate
 merz
 merzan
@@ -2072,6 +2086,7 @@ necrot
 ned lagin
 negative approach
 negativland
+neil perry
 nektar
 neu!
 neurosis
@@ -2260,6 +2275,7 @@ peter hammill
 peter j. woods
 peter lacroix
 peter sotos
+peter tosh
 peter van riper
 petr kotik
 pg.99
@@ -2417,9 +2433,11 @@ relay for death
 reload
 rene hell
 renziehausen
+rep seki
 retaliation
 reuter
 rev. a.w. nix and his congregation
+reversal of man
 revolting cocks
 reynols
 rg rough
@@ -2487,7 +2505,6 @@ rotten sound
 rotting christ
 rottrevore
 round one to round five
-rowlf
 roy ayers ubiquity
 rozz williams
 rozz williams and gitane demone
@@ -2536,6 +2553,7 @@ savant
 sawn half
 saxofonettes
 saxophonettes
+scalple
 scanner
 scant
 scarver's calling
@@ -2623,6 +2641,7 @@ skin graft
 skin horse
 skinny puppy
 skiplife
+skrupel # brutal death
 skullflower
 skullsmasher
 skulmagot
@@ -2952,6 +2971,7 @@ the league of gentlemen
 the legendary pink dots
 the legendary pink döts
 the listing attic
+the lord dog bird
 the lost jockey
 the mahavishnu orchestra with john mclaughlin
 the mars volta
@@ -3134,6 +3154,7 @@ traxman da geto dj
 traxmen
 trenchrot
 trent reznor and atticus ross
+trepanation
 trevor wishart
 trey gunn
 tricky
@@ -3148,6 +3169,7 @@ tve
 twig harper
 type o negative
 tô
+tørsö
 u.k.
 u2
 uada
@@ -3168,6 +3190,7 @@ unknown artist
 unleashed
 unwound
 ur
+usurp synapse
 utah kawasaki
 uuuu
 v
@@ -3201,6 +3224,7 @@ vibrating garbage
 video aventures
 videosex
 vidna obmana
+vidna obmana >< alio die
 vidnaobmana
 view
 viitakoski
@@ -3305,6 +3329,7 @@ xnomadx
 xome
 xtc
 xtematic
+xui
 y.m.o.
 yage
 yas kaz
