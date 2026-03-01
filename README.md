@@ -53,6 +53,7 @@ bash download_artists_list.sh
   - https://www.coyotemedia.org/tag/calendar/
   - https://medicinefornightmares.com/
 - The list-related sites:
+  - https://www.stevelist.com/
   - https://jon.luini.com/thelist/
   - https://linktr.ee/bayareametalshows
   - https://github.com/RP2/bay-punks
