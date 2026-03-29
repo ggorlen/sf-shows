@@ -18,7 +18,7 @@ const scrapeSFCM = async (favArtists) => {
   const { data } = await axios.get(url);
   const $ = cheerio.load(data);
   const titles = [];
-  $(".mar-b-half h3").each(function (i, e) {
+  $('[rel="bookmark"]').each(function (i, e) {
     titles.push($(this).text().trim().toLowerCase());
   });
 
@@ -35,13 +35,13 @@ const scrapeSFCM = async (favArtists) => {
   return allMatches;
 };
 
-const scrapeBayImproviser = async (favArtists, ignore) => {
+const scrapeBayImproviser = async (favArtists) => {
   const url = "https://www.bayimproviser.com/calendar.aspx";
   const { data } = await axios.get(url);
   const $ = cheerio.load(data);
   const descriptions = [];
   $(".description").each(function (i, e) {
-    descriptions.push($(this).text().trim().toLowerCase());
+    descriptions.push($(this).text().trim().toLowerCase().slice(100));
   });
 
   const allMatches = [];
@@ -57,7 +57,29 @@ const scrapeBayImproviser = async (favArtists, ignore) => {
   return allMatches;
 };
 
-const scrapeTheList = async (favArtists, ignore) => {
+const scrapeBayAreaMetalShows = async (favArtists) => {
+  const url = "https://linktr.ee/bayareametalshows";
+  const { data } = await axios.get(url);
+  const $ = cheerio.load(data);
+  const descriptions = [];
+  $('[data-testid="NewLinkChin"]').each(function (i, e) {
+    descriptions.push($(this).text().trim().toLowerCase());
+  });
+
+  const allMatches = [];
+
+  for (const artist of favArtists) {
+    const matches = descriptions.filter((e) => regexify(artist).test(e.split("@")[0]));
+
+    if (matches.length) {
+      allMatches.push({ artist, matches });
+    }
+  }
+
+  return allMatches;
+};
+
+const scrapeTheList = async (favArtists) => {
   const url = "http://www.foopee.com/punk/the-list/";
   const { data } = await axios.get(url);
   const $ = cheerio.load(data);
@@ -71,13 +93,17 @@ const scrapeTheList = async (favArtists, ignore) => {
   });
 
   const allMatches = [];
+  const seen = new Set();
 
   for (const a of favArtists) {
     const current = { artist: a, matches: [] };
 
     for (const { artist: b, href } of artists) {
       if (a.length > 5 && b.length > 5 && (b.includes(a) || a.includes(b))) {
-        current.matches.push({ artist: b, href });
+        if (!seen.has(b)) {
+          current.matches.push({ artist: b, href });
+          seen.add(b);
+        }
       } else {
         const { distance } = new Levenshtein(a, b);
 
@@ -106,10 +132,12 @@ const scrapeTheList = async (favArtists, ignore) => {
 
   const json = (s) => JSON.stringify(s, null, 2);
 
-  console.log("The List:");
-  console.log(json(await scrapeTheList(favArtists)));
+  console.log("\nBay Area Metal Shows:");
+  console.log(json(await scrapeBayAreaMetalShows(favArtists)));
   console.log("\nBay Improviser:");
   console.log(json(await scrapeBayImproviser(favArtists)));
   console.log("\nSFCM:");
   console.log(json(await scrapeSFCM(favArtists)));
+  console.log("The List:");
+  console.log(json(await scrapeTheList(favArtists)));
 })().catch((err) => console.error(err));

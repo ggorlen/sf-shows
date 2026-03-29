@@ -10,6 +10,7 @@ Currently scraping:
 - [foopee The List](http://www.foopee.com/punk/the-list/)
 - [Bay Improviser](https://www.bayimproviser.com/calendar.aspx)
 - [SFCM](https://sfcm.edu/performance-calendar)
+- [Bay Area Metal Shows](https://linktr.ee/bayareametalshows)
 
 Usage: `node index`
 
@@ -55,6 +56,5 @@ bash download_artists_list.sh
 - The list-related sites:
   - https://www.stevelist.com/
   - https://jon.luini.com/thelist/
-  - https://linktr.ee/bayareametalshows
   - https://github.com/RP2/bay-punks
 - Add rubber o, key west, commode minstrels, and other local bands
