@@ -1,5 +1,8 @@
 # sf-shows
 
+[![Run Scraper](https://img.shields.io/badge/Run-Scraper-blue?style=for-the-badge)](https://github.com/ggorlen/sf-shows/actions/workflows/run-scraper.yml)
+[![Update Artists](https://img.shields.io/badge/Update-Artists-green?style=for-the-badge)](https://github.com/ggorlen/sf-shows/actions/workflows/update-artists.yml)
+
 Script for finding out which musicians I like are playing in the SF area soon. My picks go [here](https://docs.google.com/document/d/1Q8H7kvvy82kApoI8KO1DR3IpXtKTQGLLifCmS2sunfA/edit?tab=t.0).
 
 Currently scraping:
@@ -7,6 +10,7 @@ Currently scraping:
 - [foopee The List](http://www.foopee.com/punk/the-list/)
 - [Bay Improviser](https://www.bayimproviser.com/calendar.aspx)
 - [SFCM](https://sfcm.edu/performance-calendar)
+- [Bay Area Metal Shows](https://linktr.ee/bayareametalshows)
 
 Usage: `node index`
 
@@ -44,8 +48,13 @@ bash download_artists_list.sh
   - https://dothebay.com/
   - https://undergroundsf.com/events/
   - https://www.instagram.com/prettygritty_sf/
+  - https://www.calbach.org/tickets
+  - https://noontimeconcerts.org/
+  - https://www.tactus-sf.org/
+  - https://www.coyotemedia.org/tag/calendar/
+  - https://medicinefornightmares.com/
 - The list-related sites:
+  - https://www.stevelist.com/
   - https://jon.luini.com/thelist/
-  - https://linktr.ee/bayareametalshows
   - https://github.com/RP2/bay-punks
 - Add rubber o, key west, commode minstrels, and other local bands

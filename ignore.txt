@@ -15,10 +15,12 @@ billy joel
 black flag
 bob dylan
 boston
+bruce springsteen
 bucketheadland
 bush
 caravan
 cex
+charli xcx
 clock dva
 coil
 collective soul
@@ -30,6 +32,7 @@ crowded house
 daryl hall & john oates
 daryl hall + john oates
 deafheaven
+death
 devo
 dio
 dj dano
@@ -44,6 +47,7 @@ field
 fineautomatic
 fleetwood mac
 flux
+foo fighters
 four tet
 friends
 fuse
@@ -115,7 +119,7 @@ red hot chili peppers
 rhythm
 rolf julius
 rolling stones
-s
+sex pistols
 slayer
 smashing pumpkins
 soft cell
@@ -129,11 +133,15 @@ suicide
 sum 41
 suzanne vega
 system
+the
 the fall
 the stranger
+the the
 thievery corporation
 this mortal coil
+tom petty
 tony conrad
+travis
 tricky
 tuss
 tve
@@ -154,5 +162,6 @@ xx
 yeah yeah yeahs
 yeti
 zbigniew karkowski
+zev
 zola jesus
 zz top
