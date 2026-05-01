@@ -1,36 +1,59 @@
+23
 311
+aa
 absolute body control
 ac/dc
 air
+akron
 all
 all green lights
 alog
 american football
 amm
+amok
+amon
+arch
 archers of loaf
+association
+asva
+autumn
 barenaked ladies
 beach boys
 benge
 billy joel
 black flag
+boar
 bob dylan
+bola
 boston
+boys noize
 bruce springsteen
 bucketheadland
+built to spill
+burial
 bush
+c93
+can
 caravan
+carl
+cat power
 cex
+chapterhouse retranslated by global communication
 charli xcx
+chet baker
 clock dva
 coil
 collective soul
 come
 conrad schnitzler
 conrad schnitzler + wolf sequenza
+cp
 creed
 crowded house
 daryl hall & john oates
 daryl hall + john oates
+david
+dead meadow
 deafheaven
 death
 devo
@@ -39,21 +62,30 @@ dj dano
 dome
 dropkick murphys
 dry cleaning
+earth wind
 earth, wind & fire
+echo
 elliott smith
+emerson
 evanescence
 everclear
+evicshen
+falt
+family
 field
 fineautomatic
 fleetwood mac
 flux
 foo fighters
 four tet
+france
 friends
 fuse
 gak
 galactic explorers
+games
 garbage and the flowers
+gel
 genesis
 genius
 gorse
@@ -63,8 +95,11 @@ grim
 hated
 headboggle & vibrating garbage
 heart
+heavenly music corporation
+hecq
 hell
 herb alpert
+heroin
 hole
 hum
 incubus
@@ -84,6 +119,7 @@ lauryn hill
 lawrence ferlinghetti
 led zeppelin
 lfo
+linear movement
 linkin park
 lit
 little feat
@@ -100,6 +136,7 @@ megadeth
 metallica
 mike
 moof
+nas
 national health
 new found glory
 noise
@@ -129,6 +166,7 @@ spectrum
 spk
 stone temple pilots
 stranger
+stroke 9
 suicidal tendencies
 suicide
 sum 41
