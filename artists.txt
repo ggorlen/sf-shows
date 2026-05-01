@@ -3,6 +3,7 @@
 "weird al" yankovic
 $oviet france
 'o'rang
+(ad)vance(d)
 .o.rang
 .xtrak
 1
@@ -15,6 +16,7 @@ $oviet france
 2nd vision
 311
 324
+3below
 40 watt sun
 5uu's
 62 eulengasse
@@ -49,6 +51,7 @@ acetate zero
 achim wollscheid
 acid eater
 acid mothers temple
+acid mothers temple swr
 acidmothersguruguru
 action painting!
 actress
@@ -107,6 +110,8 @@ alastair galbraith
 albert ayler trio
 albert marcœur
 albert van abbe
+albert yeh
+alberto rigoni
 alcatraz
 aled jones
 aleksi perälä
@@ -195,6 +200,7 @@ anthony braxton
 anthony rother
 antimatter
 antiquity
+antoine fafard
 antoine forqueray
 antonio carlos jobim
 aphex twin
@@ -213,6 +219,7 @@ arkm foam
 arnold dreyblatt
 arnold dreyblatt and the orchestra of excited strings
 arovane
+art zoyd
 arthur lyman
 artur Żmijewski
 arve henriksen
@@ -230,6 +237,7 @@ association
 association p.c.
 association p.c. + jeremy steig
 assück
+asva
 aswara
 at the drive in
 at the gates
@@ -255,6 +263,8 @@ autoclave
 autopsia
 autopsy
 autumn
+autumn tears
+avenged sevenfold
 avocado tapes
 axel dörner
 ayami suzuki
@@ -357,6 +367,7 @@ blame god
 blandine verlet
 blessid union of souls
 blind melon
+blindoldfreak
 blink
 blink 182
 blood axis
@@ -400,6 +411,7 @@ box car racer
 boyd rice
 boyd rice and friends
 boys life
+boys noize
 brad strider
 brahm
 braille party
@@ -447,6 +459,7 @@ butthole surfers
 buzzcocks
 bw
 büdi und gumbls
+c m von hausswolff
 c. c. hennix
 c.c.c.c.
 c.j.bolland
@@ -495,6 +508,7 @@ cartilage
 casiopea
 cat power
 cat stevens
+catatonic effigy
 cathode
 cathy fishman
 cattle press
@@ -540,6 +554,8 @@ chris
 chris and cosey
 chris carter
 chris connelly
+chris maitland
+chris vrenna
 chris watson
 christ.
 christian death
@@ -596,6 +612,7 @@ coil presents time machines
 coil vs elph
 coldharbourstores
 colin edwin
+colin marston
 colin newman
 colin potter
 collapsed skull
@@ -646,6 +663,7 @@ cp
 craig chaquico
 craig kupka
 craig leon
+craig wedren
 cranioclast
 crash course in science
 crash worship
@@ -665,6 +683,7 @@ crunch
 crustacés tapes
 cruudeuces
 cryocene
+cryptopsy
 culpeper's orchard
 cultural amnesia
 cultural decay
@@ -711,6 +730,7 @@ dana schechter
 daniel (a.i.u.) higgs
 daniel bell
 daniel blomquist
+daniel kane
 daniel lanois
 daniel lippel
 daniel lopatin
@@ -725,6 +745,7 @@ dark spring
 dary john mizelle
 daryl hall
 daryl hall + john oates
+das ding
 das synthetische mischgewebe
 dave burrell
 dave kerman
@@ -739,6 +760,8 @@ david benoit
 david bowie
 david byrne
 david collett
+david cross
+david cullen
 david cunningham
 david dunn
 david hopkins
@@ -788,6 +811,7 @@ def leppard
 defeated sanity
 deftones
 deicide
+deison
 delphium
 delta 9
 demdike stare
@@ -858,7 +882,6 @@ dj spooky that subliminal kid
 djam karet
 dna
 do make say think
-doenado el ur
 doktor kettu
 dolly collins
 dolor del estamago
@@ -882,6 +905,7 @@ double leopards
 doug hammond with karen joseph
 dowland
 doxa sinistra
+doénado el ur
 dr. jeffrey d. thompson
 dr. lalmani misra
 dr. p. li khan
@@ -1042,6 +1066,7 @@ fatboy slim
 fates warning
 faust
 federation x
+feike asma
 fela aníkúlápó kuti and afrika 70
 felix martin
 felix martin featuring marco minnemann
@@ -1112,6 +1137,7 @@ francis dhomont
 francis gorgé
 francis of delirium
 francisco lópez
+franco battiato
 franco potenza
 frank bretschneider
 frank dommert
@@ -1446,6 +1472,7 @@ idaho joe windslow
 iggy pop
 ignit
 ignition
+ikd sj
 ike yard
 il balletto di bronzo
 ilhan mimaroglu
@@ -1459,6 +1486,7 @@ impregnable
 in camera
 in gowan ring
 in situ
+in trance 95
 incantation
 incapacitants
 incubus
@@ -1534,6 +1562,7 @@ janne westerlund
 jannick top
 jansen barbieri karn
 japan
+japancakes
 jarboe
 jarre
 jason hayes
@@ -1595,6 +1624,7 @@ johannes schmoelling
 john also bennett
 john barry
 john bischoff
+john bull
 john cage
 john cale
 john coltrane
@@ -1617,6 +1647,7 @@ john watermann
 john wiese
 john zorn
 jolthrower
+jon durant
 jon eardley
 jon gibson
 jon hassell
@@ -1714,6 +1745,7 @@ killing addiction
 killing joke
 kim cascone
 kim cascone + jason kahn + steinbrüchel
+kimiko ishizaka
 king crimson
 king diamond
 king gizzard and the lizard wizard
@@ -1725,6 +1757,7 @@ klaus schulze
 klaus wiese
 kleistwahr
 kluster
+km
 kmfdm
 kmru
 knelt rote
@@ -1734,6 +1767,7 @@ kodama
 koji asano
 koji kondo
 kollektiv
+komara
 konflict
 konono nº1
 konrad kraft
@@ -1743,6 +1777,7 @@ konstrukt
 konstruktivits
 kontakt der jünglinge
 kool
+korn
 korpses katatonik
 kosmonautentraum
 koufar
@@ -1758,6 +1793,7 @@ krisiun
 krm
 krypt axeripper
 krypts
+krzysztof knittel
 ktl
 kumi tanioka
 kuusumun profeetta
@@ -1787,6 +1823,7 @@ larry young
 lashtal
 lasse marhaug
 laurel halo
+laurie anderson
 lauryn hill
 lawrence english
 lawrence ferlinghetti
@@ -1823,6 +1860,7 @@ licht
 lidell townsell
 life is pain
 lifetones
+lightning bolt
 limbs bin
 limbus 3
 limbus 4
@@ -1927,6 +1965,7 @@ marc russo
 marc sabat
 marcel cellier présente le mystère des voix bulgares
 marcos resende
+marcus miller
 marehelm
 mariah
 marian zazeela
@@ -1955,6 +1994,7 @@ maryanne amacher
 masayuki takayanagi
 maso yamazaki (masonna)
 masonna
+massacre
 massimo toniutti
 master
 mastodon
@@ -2022,6 +2062,7 @@ michael franks
 michael gendreau
 michael gulezian
 michael harrison and john also bennett
+michael harriton
 michael hedges
 michael hurley
 michael jackson
@@ -2035,6 +2076,7 @@ michael pisaro
 michael ranta
 michael rother
 michael sahl
+michael shrieve
 michael shrieve with kevin shrieve and klaus schulze
 michael speers
 michael stearns
@@ -2070,6 +2112,7 @@ mirror
 mirrorring
 mission of burma
 mizmor
+mm
 mnemonists
 mobb deep
 moby
@@ -2173,6 +2216,7 @@ neil perry
 nektar
 neu!
 neurosis
+nevell
 new blockaders with ferial confine
 new carrollton
 new direction
@@ -2251,6 +2295,7 @@ omd
 omit
 omni causa
 oneohtrix point never
+oomph!
 opal
 open yellow circle
 operating theatre
@@ -2294,6 +2339,7 @@ p. mariétan
 p.o.d.
 p16.d4
 p1nkf1re
+pablo garibay
 pacific
 pacific 231
 paddy mcaloon
@@ -2313,6 +2359,7 @@ paranoid time
 parasitic infestation
 pascal comelade
 passion killers
+pat mastelotto
 pat metheny group
 patrice rushen
 patrick + thomas demenga
@@ -2355,6 +2402,7 @@ pet shop boys
 pete namlook
 pete shelley
 pete yorn
+peter banks
 peter baumann
 peter chilvers
 peter christopherson
@@ -2376,6 +2424,7 @@ pharaoh overlord + aaron turner
 pharmacist
 pharmakon
 pharoah sanders
+phil blankenship
 phil collins
 phil geraldi
 phil lesh
@@ -2408,6 +2457,7 @@ pil
 pilgrim talk
 pinback
 pink floyd
+pinkly smooth
 pinniped
 pino palladino
 piss baptism
@@ -2454,6 +2504,8 @@ procol harum
 prodigy
 produktion
 proem
+projekct six
+projekct three
 projekct two
 projekct x
 protein den
@@ -2528,6 +2580,7 @@ regurgitate
 reigakusya
 reiko. a with merzbow
 rein de graaff
+reinhard lakomy
 reinhold friedl
 relay for death
 reload
@@ -2540,6 +2593,7 @@ rev. a.w. nix and his congregation
 reversal of man
 revolting cocks
 reynols
+rezzett
 rg rough
 rhesus o
 rhodri davies
@@ -2745,6 +2799,7 @@ sissy spacek
 six organs of admittance
 sixteen horsepower
 sixth comm
+skarn
 skee mask
 skeletal remains
 skewbald
@@ -2791,6 +2846,7 @@ somei satoh
 sonic youth
 sonmi451
 sonny rollins
+sonoio
 sore dream
 soul coughing
 sound
@@ -2872,6 +2928,7 @@ strider. b.
 stroke 9
 struggler
 stuart dempster
+stuart hamm
 studio 1
 stéphane picq
 subtonal
@@ -2899,6 +2956,7 @@ suppression
 surgeon
 survival research laboratories
 susan geaney
+suso saiz
 suso sáiz
 sutcliffe jugend
 suumhow
@@ -2931,6 +2989,7 @@ system planning korporation
 systems
 systems officer
 szemző tibor
+t++
 t. hecker
 t. mikawa
 t. 磯谷
@@ -3006,6 +3065,7 @@ the banshees
 the bastard noise
 the beach boys
 the beatles
+the black dahlia murder
 the blacks
 the boyd rice experience
 the breeders
@@ -3019,6 +3079,7 @@ the chameleon
 the chameleons
 the chemical brothers
 the cherry point
+the cherry point + impregnable
 the chick corea elektric band
 the church
 the clash
@@ -3028,6 +3089,7 @@ the congos
 the cosmic jokers
 the cranberries
 the creative technology institute
+the crimson projekct
 the crownhate ruin
 the cure
 the curtains
@@ -3058,11 +3120,13 @@ the flashbulb
 the foetus all nude revue
 the for carnation
 the fucking am
+the fusion syndicate
 the future sound of london
 the gang
 the garbage and the flowers
 the gathering
 the gerogerigegege
+the get up kids
 the girl with the stanley knife
 the glove
 the grateful dead
@@ -3228,6 +3292,7 @@ title fight
 tiziano dominighini
 tm404
 tnb
+tobias ralph
 toby driver
 tod dockstader
 todd rundgren
@@ -3251,6 +3316,7 @@ tones on tail
 tongue depressor + austin larkin
 toni esposito
 tonie marshall
+tonstartssbandht
 tony conrad
 tony conrad with faust
 tool
@@ -3319,6 +3385,7 @@ unknown artist
 unleashed
 unwound
 ur
+urban sprawl
 usurp synapse
 utah kawasaki
 uuuu
@@ -3348,6 +3415,7 @@ vend
 venetian snares
 venetian snares + speedranch
 veryan weston
+vian and merzbow
 vibracathedral orchestra
 vibrating garbage
 video aventures
@@ -3385,6 +3453,7 @@ vortex campaign
 vox populi !
 vox populi!
 vulture feather
+víkingur Ólafsson
 wadge
 wagon christ
 wake up on fire
@@ -3413,6 +3482,7 @@ werkbund
 wes montgomery
 wet dream
 wha ha ha
+wha ha ha = わ・は・は
 wharflurch
 wheatus
 white hospital
@@ -3449,6 +3519,7 @@ wu tang clan
 wurzelbewußtsein
 włodzimierz kotoński
 x
+x tg
 xasthur
 xclocktowerx
 xenakis
@@ -3462,6 +3533,7 @@ xtematic
 xui
 y.m.o.
 yage
+yannick dauby
 yas kaz
 yasuaki shimizu
 yasuaki shimizu = 清水靖晃
