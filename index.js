@@ -13,9 +13,15 @@ const regexify = (s) =>
       .replace(/ +/g, "\\s+"),
   );
 
+const get = async (url) => {
+  const ua =
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36";
+  const { data } = await axios.get(url, { headers: { "User-Agent": ua } });
+  return data;
+};
+
 const scrapeSFCM = async (favArtists) => {
-  const url = "https://sfcm.edu/performance-calendar";
-  const { data } = await axios.get(url);
+  const data = await get("https://sfcm.edu/performance-calendar");
   const $ = cheerio.load(data);
   const titles = [];
   $('[rel="bookmark"]').each(function (i, e) {
@@ -37,7 +43,7 @@ const scrapeSFCM = async (favArtists) => {
 
 const scrapeBayImproviser = async (favArtists) => {
   const url = "https://www.bayimproviser.com/calendar.aspx";
-  const { data } = await axios.get(url);
+  const data = await get(url);
   const $ = cheerio.load(data);
   const descriptions = [];
   $(".description").each(function (i, e) {
@@ -59,7 +65,7 @@ const scrapeBayImproviser = async (favArtists) => {
 
 const scrapeBayAreaMetalShows = async (favArtists) => {
   const url = "https://linktr.ee/bayareametalshows";
-  const { data } = await axios.get(url);
+  const data = await get(url);
   const $ = cheerio.load(data);
   const descriptions = [];
   $('[data-testid="NewLinkChin"]').each(function (i, e) {
@@ -69,7 +75,9 @@ const scrapeBayAreaMetalShows = async (favArtists) => {
   const allMatches = [];
 
   for (const artist of favArtists) {
-    const matches = descriptions.filter((e) => regexify(artist).test(e.split("@")[0]));
+    const matches = descriptions.filter((e) =>
+      regexify(artist).test(e.split("@")[0]),
+    );
 
     if (matches.length) {
       allMatches.push({ artist, matches });
@@ -81,7 +89,7 @@ const scrapeBayAreaMetalShows = async (favArtists) => {
 
 const scrapeTheList = async (favArtists) => {
   const url = "http://www.foopee.com/punk/the-list/";
-  const { data } = await axios.get(url);
+  const data = await get(url);
   const $ = cheerio.load(data);
   const artists = [];
   $('a[href^="by-band"]').each(function (i, e) {
