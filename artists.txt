@@ -215,6 +215,7 @@ arcane device
 arch
 archers of loaf
 archie shepp
+arkbro
 arkm foam
 arnold dreyblatt
 arnold dreyblatt and the orchestra of excited strings
@@ -289,6 +290,7 @@ bam bam
 bananafish magazine
 banco del mutuo soccorso
 bang on a can
+barbieri
 bardo thödol
 barenaked ladies
 bark psychosis
@@ -312,6 +314,7 @@ bedhead
 beerbohm
 being
 belle and sebastian
+belong
 ben frost
 ben shepherd
 bene gesserit
@@ -509,6 +512,7 @@ casiopea
 cat power
 cat stevens
 catatonic effigy
+catherine
 cathode
 cathy fishman
 cattle press
@@ -522,6 +526,7 @@ cemetery filth
 ceramic hello
 cerebral rot
 ceremonial bloodbath
+cerrone
 cervello
 cevin key
 cex
@@ -591,6 +596,8 @@ clark
 claude young
 claus ogerman
 cleaners from venus
+clearlight
+clearlight symphony
 clipman
 clock dva
 clouddead
@@ -652,6 +659,7 @@ core + biasin stefano
 core + trigger b
 coriky
 corpus offal
+corrode
 corrupted
 cosey
 cosmic couriers
@@ -684,6 +692,7 @@ crustacés tapes
 cruudeuces
 cryocene
 cryptopsy
+cti
 culpeper's orchard
 cultural amnesia
 cultural decay
@@ -742,10 +751,12 @@ danielle dax
 danny clay
 daphine and lyndsey
 dark spring
+darkthrone
 dary john mizelle
 daryl hall
 daryl hall + john oates
 das ding
+das oath
 das synthetische mischgewebe
 dave burrell
 dave kerman
@@ -873,6 +884,7 @@ disgorge
 dissecting table
 dix bruce
 dj dano
+dj embryonic petit sac
 dj food
 dj funk
 dj python
@@ -891,6 +903,7 @@ domaine poétique
 dome
 domenico scarlatti
 dominique bertram
+dominique visse
 don caballero
 don campbell
 don cherry
@@ -973,9 +986,11 @@ el aviador dro
 eliane radigue
 elite gymnastics
 elizabeth fraser
+ellen arkbro
 elliot simpson
 elliott smith
 elodie
+eloy
 elph vs coil
 elton dean's ninesense
 emaciator
@@ -998,6 +1013,7 @@ enno velthuys
 eno
 eno • hyde
 enrico piva
+ensemble clément janequin
 ensemble kluster
 entombed
 entre vifs
@@ -1048,6 +1064,7 @@ eyes adrift
 eyes of autumn
 f
 f a.r.
+f r david
 f.o.e #1
 fabio frizzi
 fabio perletta
@@ -1065,6 +1082,7 @@ farben
 fatboy slim
 fates warning
 faust
+febuary
 federation x
 feike asma
 fela aníkúlápó kuti and afrika 70
@@ -1137,7 +1155,6 @@ francis dhomont
 francis gorgé
 francis of delirium
 francisco lópez
-franco battiato
 franco potenza
 frank bretschneider
 frank dommert
@@ -1158,6 +1175,7 @@ from within
 front 242
 front line assembly
 frost
+fslux
 fsol
 fudge tunnel
 fugazi
@@ -1165,6 +1183,7 @@ full of hell
 full of hell and nothing
 funckarma
 function disorder
+funeral diner
 funeral leech
 funkadelic
 funkstörung
@@ -1198,6 +1217,7 @@ garfunkel
 gary clail's tackhead sound system
 gary husband
 gas
+gate
 gaussian curve
 gavin harrison
 geddy lee
@@ -1330,6 +1350,7 @@ gvillotina
 gza
 günter härtel
 h. keiji
+h.kyllönen
 h.n.a.s.
 habitat ensemble
 hacked apart
@@ -1414,7 +1435,9 @@ hideaki nakama
 hideg roncs
 higher intelligence agency
 hildegard von bingen
+hirokazu tanaka
 hirono nishiyama
+hiroshi kanazu
 hiroshi kawaguchi
 hiroshi sato
 hiroshi yoshimura
@@ -1427,6 +1450,7 @@ hit run drivers
 hitoshi kojo
 hke x zomby
 hoelderlin
+holder
 hole
 holger czukay
 hollywood dream trip
@@ -1441,6 +1465,7 @@ horseflesh
 hostage pageant
 hototogisu
 houkago grind time
+house of low culture
 household gods
 hudak
 huerco s.
@@ -1469,6 +1494,7 @@ iasos
 ibiza shock troops
 ibliss
 idaho joe windslow
+iggy and the stooges
 iggy pop
 ignit
 ignition
@@ -1591,6 +1617,7 @@ jeph jerman
 jeremy enigk
 jeremy soule
 jeromes dream
+jerry cantrell
 jerry hunt
 jerry martin
 jessamine
@@ -1662,6 +1689,7 @@ joseph edward yonker
 josh burke
 joshua fit for battle
 joshua rifkin
+josquin desprez
 josé ignacio valdés
 joy division
 jr.
@@ -1695,6 +1723,7 @@ kallabris
 kano
 kanoko nishi
 kanye west
+kapital
 kapotte muziek
 kapottemuziek
 kapsberger
@@ -1718,6 +1747,7 @@ kazumi watanabe
 kd
 kebnekaise
 kebnekajse
+keiichi suzuki
 keiji haino
 keiji haino + sumac
 keiji haino = コンストラクト
@@ -1726,6 +1756,7 @@ keith leblanc
 keith rowe
 ken hiwatt marshall
 kendrick lamar
+kenji yamamoto
 kenny g
 kerith ravine
 kermit
@@ -1801,7 +1832,9 @@ kyle eyre clyd
 kyle flanagan
 kyle gann
 kyle h. mabson
+kyllönen
 kyuss
+kōhachiro miyata
 l'occhio dietro la parete
 l.o.s.d.
 l.o.t.i.o.n.
@@ -1947,6 +1980,7 @@ male compliments
 male rape group
 malevolent creation
 malignant altar
+malone
 man is the bastard
 man is the bastard noise
 manfred mann chapter three
@@ -1988,6 +2022,7 @@ martin denny
 martin dupont
 martin newell
 martin rev
+martina galvagni
 mary currie
 mary mayo
 maryanne amacher
@@ -2100,6 +2135,7 @@ miki yui
 milan knižák
 miles davis
 mimir
+minako hamano
 mindrot
 mineral
 mingus
@@ -2242,6 +2278,7 @@ nino ferrer
 nirvana
 nitzer ebb
 no artist
+no faith
 no fun acid
 no man
 no model
@@ -2267,9 +2304,11 @@ nord
 nordvargr
 normal brain
 northern exchange
+november
 nuclear death wish
 nucleus
 null
+num num
 nurse with wound
 o yuki conjugate
 obituary
@@ -2291,6 +2330,7 @@ old lady drivers
 olneyville string system
 om
 om buschman
+om unit + tm404
 omd
 omit
 omni causa
@@ -2344,6 +2384,7 @@ pacific
 pacific 231
 paddy mcaloon
 page mcconnell
+pageninetynine
 pailhead
 pakt
 palais schaumburg
@@ -2354,6 +2395,7 @@ panaiotis
 panasonic
 pantera
 papervehicle
+parallel worlds
 paramore
 paranoid time
 parasitic infestation
@@ -2499,6 +2541,8 @@ primus
 prince and the revolution
 princess army wedding combat
 priori
+prizehog
+process is dead
 proclamation plague
 procol harum
 prodigy
@@ -2565,6 +2609,7 @@ rat cage
 raum
 rcab
 rdc records
+reactor no.7
 reagenz
 realicide
 reaver
@@ -2583,6 +2628,7 @@ rein de graaff
 reinhard lakomy
 reinhold friedl
 relay for death
+relics
 reload
 rene hell
 renziehausen
@@ -2612,6 +2658,7 @@ riket
 rinus van alebeek
 ripped to shreds
 rites of spring
+ritual mess
 riuichi sakamoto
 riuichi sakamoto = 坂本龍一
 rk faulhaber
@@ -2771,6 +2818,7 @@ shirley collins
 shiroc
 shit and shine
 shizuo
+shortwave surfers
 shpongle
 shredded nerve
 shrimp
@@ -2816,6 +2864,7 @@ slag boom van loon
 slayer
 sleep
 sleeparchive
+sleepytime gorilla museum
 slight slappers
 slipknot
 sloth
@@ -2855,12 +2904,15 @@ southkill
 soviet france
 sp 23
 spa
+space
+space art
 space explosion
 space machine
 spaceghostpurrp
 spacemen 3
 sparks
 spazz
+speaker music
 spectral voice
 spectral wound
 spectre
@@ -2881,6 +2933,7 @@ spy
 squarepusher
 stabbing
 stapleton
+starchildren
 stardust
 stars of the lid
 stars of the lid w
@@ -2932,6 +2985,7 @@ stuart hamm
 studio 1
 stéphane picq
 subtonal
+succumb
 suffocation
 suicidal tendencies
 suicide
@@ -2993,6 +3047,7 @@ t++
 t. hecker
 t. mikawa
 t. 磯谷
+t.h.x.
 t.j. borden
 tachycardie
 tack»head
@@ -3028,6 +3083,7 @@ tcp
 team sleep
 tears for fears
 techno animal
+ted lucas
 ted nugent
 tee lopes
 teenage jesus and the jerks
@@ -3149,6 +3205,7 @@ the jb's
 the jesus and mary chain
 the jesus lizard
 the jim carroll band
+the jjen
 the joke project
 the kaleidoscope
 the klf
@@ -3194,10 +3251,12 @@ the police
 the promise ring
 the prunes
 the pupils
+the red scare
 the residents
 the rita
 the river
 the roots feat. bilal
+the rootsman vs muslimgauze
 the routes
 the saxophonettes
 the sea and cake
@@ -3220,6 +3279,7 @@ the sonic youth
 the soul sonic force music by planet patrol
 the state
 the stone roses
+the stooges
 the stranger
 the stray trolleys
 the system
@@ -3266,6 +3326,7 @@ thomas leer
 thomas tallis
 thomas tilly
 thorn bug
+thorr's hammer
 thou
 thou art lord
 thought gang
@@ -3329,6 +3390,7 @@ toshiki kadomatsu
 toshiki kadomatsu = 角松敏生
 toshimaru nakamura
 toshiya tsunoda
+toshiyuki ueno
 total
 toumani diabate with ballake sissoko
 tourette
@@ -3337,6 +3399,7 @@ toy.bizarre
 tra la la band
 tracy w. bush
 tragedy
+train breaks down
 trans am
 transam
 transchamps
@@ -3358,16 +3421,19 @@ träd
 tsering tobgyal
 tunnels
 turquoise days
+tusmørke
 tuxedomoon
 tve
 twig harper
 type o negative
+té
 tô
 tørsö
 u.k.
 u2
 uada
 ufo or die
+ui
 uk
 ulcerate
 ulli bögershausen
@@ -3401,7 +3467,7 @@ van halen
 van kaye
 van morrison
 vangelis
-vangelis o.
+vangelis o. papathanassiou
 vankmen
 vantzou
 varathron
@@ -3468,10 +3534,12 @@ warning
 warren burt
 warren zevon
 wassermann
+wasteland
 water torture
 wax
 weakling
 weather report
+webern
 weedeater
 ween
 weezer
@@ -3573,6 +3641,7 @@ zanmerz
 zao
 zawinul
 zbigniew karkowski
+zeit
 zeitkratzer
 zelienople
 zeni geva
@@ -3607,18 +3676,22 @@ zz top
 三上寛
 不失者
 不失者 = fushitsusha
+久馬 浩一
 人間椅子
 佐井好子
 友川かずき
 坂本龍一
 小西康陽
+山本 健誌
 明田川荘之
 東方沙羅
+濱野 美奈子
 灰野敬二
 灰野敬二 = haino keiji
 矢野顕子 = akiko yano
 石塚俊明
 福居良トリオ
+藤原 玲
 西岡恭蔵 with 細野晴臣
 赤天
 高中正義
