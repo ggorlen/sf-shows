@@ -28,6 +28,7 @@ bola
 boston
 boys noize
 breeders
+brown
 bruce springsteen
 bucketheadland
 built to spill
@@ -43,6 +44,7 @@ chance the rapper
 chapterhouse retranslated by global communication
 charli xcx
 chet baker
+chris
 clock dva
 coil
 coil presents black light district
@@ -75,6 +77,8 @@ echo
 edge
 elliott smith
 emerson
+end
+ev
 evanescence
 everclear
 evicshen
@@ -83,6 +87,7 @@ family
 fatboy slim
 field
 fineautomatic
+fire
 fleetwood mac
 flux
 foo fighters
@@ -160,6 +165,7 @@ noise
 non
 normal
 offspring
+om
 omd
 p.o.d.
 pantera
@@ -174,11 +180,15 @@ red hot chili peppers
 rhythm
 rolf julius
 rolling stones
+rush
 sex pistols
 slayer
 smashing pumpkins
 smiths
+so
 soft cell
+sound
+space
 sparks
 spectrum
 spk
@@ -201,12 +211,14 @@ tom petty
 tony conrad
 travis
 tricky
+trio
 tuss
 tve
 uada
 ultra
 ur
 van morrison
+various
 velvet underground
 vibrating garbage
 violent femmes
@@ -218,6 +230,7 @@ who
 windham hill artists
 windy
 wire
+work
 wu-tang clan
 xiu xiu
 xx

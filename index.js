@@ -47,7 +47,7 @@ const scrapeBayImproviser = async (favArtists) => {
   const $ = cheerio.load(data);
   const descriptions = [];
   $(".description").each(function (i, e) {
-    descriptions.push($(this).text().trim().toLowerCase().slice(100));
+    descriptions.push($(this).text().trim().toLowerCase().slice(0, 330));
   });
 
   const allMatches = [];
@@ -145,8 +145,8 @@ const scrapeTheList = async (favArtists) => {
 
   console.log("\nBay Area Metal Shows:");
   console.log(json(await scrapeBayAreaMetalShows(favArtists)));
-  //console.log("\nBay Improviser:");
-  //console.log(json(await scrapeBayImproviser(favArtists)));
+  console.log("\nBay Improviser:");
+  console.log(json(await scrapeBayImproviser(favArtists)));
   console.log("\nSFCM:");
   console.log(json(await scrapeSFCM(favArtists)));
   console.log("The List:");
