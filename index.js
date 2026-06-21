@@ -65,18 +65,21 @@ const scrapeBayImproviser = async (favArtists) => {
 
 const scrapeBayAreaMetalShows = async (favArtists) => {
   const url = "https://linktr.ee/bayareametalshows";
-  const data = await get(url);
-  const $ = cheerio.load(data);
+  const $ = cheerio.load(await get(url));
   const descriptions = [];
-  $('[data-testid="NewLinkChin"]').each(function (i, e) {
-    descriptions.push($(this).text().trim().toLowerCase());
-  });
+  const data1 = JSON.parse($("#__NEXT_DATA__").text());
+
+  for (const show of data1.props.pageProps.account.links) {
+    if (["CLASSIC", "INSTAGRAM_POST"].includes(show.type) && /\d\d\/\d\d\/\d\d\d\d/.test(show.title)) {
+      descriptions.push(show.title);
+    }
+  }
 
   const allMatches = [];
 
   for (const artist of favArtists) {
     const matches = descriptions.filter((e) =>
-      regexify(artist).test(e.split("@")[0]),
+      regexify(artist).test(e.split("@")[0].toLowerCase())
     );
 
     if (matches.length) {
@@ -142,8 +145,8 @@ const scrapeTheList = async (favArtists) => {
 
   console.log("\nBay Area Metal Shows:");
   console.log(json(await scrapeBayAreaMetalShows(favArtists)));
-  console.log("\nBay Improviser:");
-  console.log(json(await scrapeBayImproviser(favArtists)));
+  //console.log("\nBay Improviser:");
+  //console.log(json(await scrapeBayImproviser(favArtists)));
   console.log("\nSFCM:");
   console.log(json(await scrapeSFCM(favArtists)));
   console.log("The List:");
