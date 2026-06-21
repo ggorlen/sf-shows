@@ -34,12 +34,13 @@ bash download_artists_list.sh
 - Add UI/website
 - Sites to scrape:
   - https://19hz.info/
+  - https://www.sfems.org/calendar-of-early-music
   - https://kfjc.org/events/concert-outlook
   - https://www.kalx.berkeley.edu/event/events-november-10-16-2025/
   - https://noontimeconcerts.org/
   - https://therehearsalstudio.blogspot.com/2025/11/the-bleeding-edge-11102025.html
   - https://thrillhouserecords.com/pages/calendar
-  - C4NM
+  - [C4NM](https://centerfornewmusic.com/event/)
   - https://upthecreekrecords.com/Events (already in the list)
   - Gray Area (actually seems already included)
   - Back Room (berkeley)
@@ -49,7 +50,6 @@ bash download_artists_list.sh
   - https://undergroundsf.com/events/
   - https://www.instagram.com/prettygritty_sf/
   - https://www.calbach.org/tickets
-  - https://noontimeconcerts.org/
   - https://www.tactus-sf.org/
   - https://www.coyotemedia.org/tag/calendar/
   - https://medicinefornightmares.com/
