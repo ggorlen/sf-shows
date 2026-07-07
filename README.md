@@ -53,6 +53,7 @@ bash download_artists_list.sh
   - https://www.tactus-sf.org/
   - https://www.coyotemedia.org/tag/calendar/
   - https://medicinefornightmares.com/
+  - https://ccrma.stanford.edu/
 - The list-related sites:
   - https://www.stevelist.com/
   - https://jon.luini.com/thelist/
