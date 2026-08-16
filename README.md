@@ -14,17 +14,12 @@ Currently scraping:
 
 Usage: `node index`
 
-### Creating the artists.txt list
+### Creating artists.txt, listened.json and index.html
 
-Extract a list of artists I've listened to:
-
-```
-bash download_artists_list.sh
-```
+`node update-artists`
 
 ### TODOs
 
-- Add generated website for weekly results and of favorite artists
 - For The List, fetch venue, full list of acts, date and price for any hits
 - Use https://www.npmjs.com/package/fastest-levenshtein
 - Avoid false positives on Bay Improviser
