@@ -18,4 +18,9 @@ jq -r '
   | .[]
   | gsub("^\\s+|\\s+$"; "")
 ' listened.json | sort -u > artists.txt
-
+jq -c '
+  [
+    .items[]
+    | {title: .display_title, uri: .uri, comment: .comment}
+  ]' listened.json > listened2.json
+mv listened2.json listened.json

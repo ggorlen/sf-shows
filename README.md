@@ -24,14 +24,13 @@ bash download_artists_list.sh
 
 ### TODOs
 
-- For The List, fetch venue, date and price for any hits
+- Add generated website for weekly results and of favorite artists
+- For The List, fetch venue, full list of acts, date and price for any hits
 - Use https://www.npmjs.com/package/fastest-levenshtein
 - Avoid false positives on Bay Improviser
 - Make an API
-- Download the list every week or month to archive it and make it searchable
+- Download The List every week or month to archive it and make it searchable
   - already done here: https://jon.luini.com/thelist/
-- Add weekly GH action
-- Add UI/website
 - Sites to scrape:
   - https://19hz.info/
   - https://www.sfems.org/calendar-of-early-music
@@ -57,4 +56,4 @@ bash download_artists_list.sh
   - https://www.stevelist.com/
   - https://jon.luini.com/thelist/
   - https://github.com/RP2/bay-punks
-- Add rubber o, key west, commode minstrels, and other local bands
+- Add key west, and other local bands that may not be derived from discogs
