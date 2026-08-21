@@ -9,7 +9,7 @@ function normalizeArtist(name) {
   const lower = name.toLowerCase();
 
   if (lower.startsWith("caroliner rainbow")) {
-    return "caroliner rainbow";
+    return "caroliner";
   }
 
   if (lower === "work/death") {
@@ -199,6 +199,10 @@ function createHtml(items) {
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="color-scheme" content="light dark">
 <title>Listened</title>
+<link
+  rel="icon"
+  href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' width='48' height='48' viewBox='0 0 16 16'><text x='0' y='14'>🎼</text></svg>"
+/>
 <style>
 :root { color-scheme: light dark; }
 
@@ -305,7 +309,11 @@ ul {
 <body>
 <header>
 <h1>Listened</h1>
-<div class="meta"><span id="count">${items.length}</span> releases · ${artistEntries.length} artists</div>
+<div class="meta">
+  <span id="count">${items.length}</span> releases ·
+  ${artistEntries.length} artists ·
+  Updated ${new Date().toLocaleDateString()}
+</div>
 <input id="filter" type="search" placeholder="Filter releases..." autocomplete="off" autofocus>
 
 <details>
@@ -332,6 +340,7 @@ const sortCount=document.getElementById("sort-count");
 const sortAlpha=document.getElementById("sort-alpha");
 
 function applyFilter(value){
+  document.querySelector("summary").click();
   const query=value.trim().toLowerCase();
   let visible=0;
 

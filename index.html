@@ -7696,6 +7696,7 @@ const sortCount=document.getElementById("sort-count");
 const sortAlpha=document.getElementById("sort-alpha");
 
 function applyFilter(value){
+  document.querySelector("summary").click();
   const query=value.trim().toLowerCase();
   let visible=0;
 

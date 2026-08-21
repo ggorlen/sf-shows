@@ -14,11 +14,11 @@ Currently scraping:
 
 Usage: `node index`
 
-### Creating artists.txt, listened.json and index.html
+## Creating artists.txt, listened.json and index.html
 
 `node update-artists`
 
-### TODOs
+## TODOs
 
 - For The List, fetch venue, full list of acts, date and price for any hits
 - Use https://www.npmjs.com/package/fastest-levenshtein
