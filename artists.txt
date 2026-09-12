@@ -84,6 +84,7 @@ agent cooper
 aghora
 agitation free
 aglaia
+agnetha frida
 agnostic front
 agonal lust
 agoraphobic nosebleed
@@ -178,6 +179,7 @@ andrew chalk
 andrew coleman
 andrew coltrane
 andrew cyrille
+andrew grant
 andrew lee's heavy metal shrapnel
 andrew quitter
 andrew smith
@@ -201,7 +203,6 @@ animals on wheels
 animist orchestra
 anjou
 anla courtis
-anna frida
 anna von hausswolff
 anne williams
 annette peacock
@@ -364,9 +365,9 @@ billy joel
 biosphere
 biota
 birchville cat motel
-bjorn benny
 björk
 björk mit funkstörung
+björn benny
 björn vollmer
 black air
 black army jacket
@@ -378,6 +379,7 @@ black leather jesus
 black midi
 black mountain transmitter
 black sabbath
+black sun roof
 black tambourine
 black thread
 black to comm
@@ -476,7 +478,9 @@ buckethead
 bucketheadland
 budweiser sprite
 built to spill
+bull
 burial
+burials
 burmese
 burn pile
 burnin red ivanhoe
@@ -518,7 +522,6 @@ carlos niño
 carnage
 carnivore.
 caroliner
-caroliner rainbow
 carpathian forest
 carrier
 cartilage
@@ -531,6 +534,7 @@ catherine christer hennix
 cathode
 cathy fishman
 cattle press
+caustic phlegm
 caustic window
 caustic wound
 cdr
@@ -617,6 +621,7 @@ cleaners from venus
 clearlight
 clearlight symphony
 clipman
+clive henry
 clock dva
 clouddead
 club moral
@@ -675,6 +680,7 @@ converter
 convextion
 cordouan
 coriky
+cornet
 corpse pile
 corpus offal
 corrode
@@ -682,6 +688,7 @@ corrupted
 cosey
 cosey fanni tutti
 cosmic couriers
+costes
 cousin kevin
 coward
 coyote oldman
@@ -719,6 +726,7 @@ culpeper's orchard
 cultural amnesia
 cultural decay
 culturcide
+culver
 cupol
 curd duca
 curley
@@ -739,6 +747,7 @@ cyclobe
 cylobotnia
 cyndi lauper
 cynic
+cyque sage
 cyrus
 czjzek
 czukay
@@ -808,6 +817,7 @@ david lindley
 david lynch
 david maranha
 david naegele
+david payne
 david prescott
 david pritchard
 david sylvian
@@ -918,8 +928,10 @@ dj python
 dj screw
 dj shadow
 dj spooky that subliminal kid
+dj yo yo dieting
 djam karet
 djivan gasparyan
+dlmg
 dna
 do make say think
 doktor kettu
@@ -1088,7 +1100,6 @@ exit unit
 exivious
 experimental audio research
 explosions in the sky
-expressway yo yo dieting
 expurgo
 extrawelt
 extreme noise terror
@@ -1116,6 +1127,7 @@ fatboy slim
 fates warning
 faust
 febuary
+fecalove
 federation x
 feike asma
 fela aníkúlápó kuti and afrika 70
@@ -1180,6 +1192,7 @@ foreningen til livets beskyttelse
 forest drive west
 forever forever
 formen
+fossils
 four hundred years
 four tet
 fra lippo lippi
@@ -1240,6 +1253,7 @@ g.lewis
 g.w.a.
 gabby fluke mogul
 gabi losoncy
+gabriel saloman
 gainsbourg
 gak
 galactic explorers
@@ -1349,6 +1363,7 @@ gov't mule
 government alpha
 government issue
 government α
+gpark
 grace jones
 graeme revell
 graham lambkin
@@ -1428,6 +1443,7 @@ hansson
 happy go licky
 happy the man
 harley gaber
+harm
 harmonia
 harmonia 76
 harmonic space orchestra
@@ -1500,6 +1516,7 @@ hiroshi kanazu
 hiroshi kawaguchi
 hiroshi sato
 hiroshi yoshimura
+hirs
 hirsche nicht aufs sofa
 his chorus and orchestra
 his hero is gone
@@ -1689,6 +1706,7 @@ jean philippe rameau
 jeff carey
 jeff hudson
 jeff mills
+jeffry astin
 jefre cantu ledesma
 jega
 jennifer veillerobe
@@ -1722,6 +1740,7 @@ joe jones
 joe mcphee
 joe preston and daniel menche
 joe satriani
+joe talia
 joe zawinul
 joel dugrenot
 johan goedhart
@@ -1836,7 +1855,9 @@ keith jarrett
 keith leblanc
 keith rowe
 ken hiwatt marshall
+ken ichiro isoda = 磯田健一郎
 kendrick lamar
+kenji siratori
 kenji yamamoto
 kenny g
 kerith ravine
@@ -2037,6 +2058,7 @@ luis mesa
 luke slater's 7th plain
 luke vibert
 lull
+lunar mistake
 lungfish
 lustmord
 lustmørd
@@ -2084,6 +2106,7 @@ man is the bastard noise
 manfred mann chapter three
 manfred werder
 mania
+mannateas
 manorexia
 manpig
 mantronix
@@ -2141,6 +2164,7 @@ matrix
 matt berry
 matt chamberlain
 matt uelmen
+matthew bower
 matthew earle
 matthew hough
 matthew sullivan
@@ -2247,6 +2271,7 @@ milan knižák
 miles davis
 mimir
 minako hamano
+mincemeat or tenspeed
 mindrot
 mineral
 mingus
@@ -2324,9 +2349,11 @@ mundo animal
 muntjac
 muraglia
 murcof
+murple
 museo rosenbach
 musica elettronica viva
 muslimgauze
+mutant ape
 my bloody valentine
 my chemical romance
 my life with the thrill kill kult
@@ -2420,6 +2447,7 @@ nokturnal mortum
 non
 non horse
 noname
+nonhorse
 nonlocal forecast
 noose sweat
 noothgrush
@@ -2521,6 +2549,7 @@ palais schaumburg
 palmer
 paloalto
 pan sonic
+pan to scratch
 panaiotis
 panasonic
 pantera
@@ -2614,6 +2643,7 @@ philip ulrich
 philippe besombes
 philippe de monte
 philippe doray
+philips
 phill niblock
 philus
 phish
@@ -2672,6 +2702,7 @@ prefab sprout
 prefuse 73
 premature ejaculation
 premiata forneria marconi
+prevail
 primal scream
 primitive isolation tactics
 primitive man
@@ -2714,6 +2745,7 @@ pyosisified
 pyrolator
 pyrrhon
 pärson sound
+pérotin
 pôle
 q and not u
 quadrant
@@ -2902,6 +2934,7 @@ samla mammas manna
 sammartini
 sand
 sandy bull
+sandy bull with billy higgins
 sandy ewen
 sanguisugabogg
 santana
@@ -2913,6 +2946,7 @@ savant
 sawn half
 saxofonettes
 saxophonettes
+sbtdoh
 scab addict
 scalple
 scanner
@@ -2968,6 +3002,7 @@ sex pistols
 señor coconut y su conjunto
 shackleton
 shadow project
+shadowfax
 shake
 shane parish
 shellac
@@ -2991,8 +3026,10 @@ sickness
 sickness of snakes
 siege
 siegfried kessler
+siegmar fricke
 sigtryggur berg sigmarsson
 sigur rós
+silk fountain
 silver apples
 silver jews
 silverchair
@@ -3256,6 +3293,7 @@ tangerine dream
 tanner garza
 tanz mein herz
 tape loop orchestra
+tapeface
 tarkatak
 tartar lamb ii
 tarwater
@@ -3276,6 +3314,7 @@ teitanblood
 telefon tel aviv
 telemann
 telepherique
+television
 television personalities
 temora
 temple of the dog
@@ -3482,6 +3521,7 @@ the system
 the tear garden
 the teen idles
 the the
+the third eye foundation
 the threshold houseboys choir
 the tower recordings
 the tragically hip
@@ -3489,6 +3529,7 @@ the tuss
 the units
 the upsetters
 the velvet underground
+the vomit arsonist
 the wailers
 the wake
 the wallfisch band
@@ -3563,6 +3604,7 @@ toho sara = 東方沙羅
 toki fuko
 tokiko kato with riuichi sakamoto
 tolerance
+tom james scott
 tom johnson
 tom kenyon
 tom mudd
@@ -3618,6 +3660,7 @@ trepanation
 trevor wishart
 trey gunn
 tricky
+tricorn and queue
 trigger b
 trilok gurtu
 trio
@@ -3632,6 +3675,7 @@ tusmørke
 tuxedomoon
 tve
 twig harper
+twokmi kimali
 type o negative
 té
 tô
@@ -3669,6 +3713,8 @@ vader
 vainqueur
 valentina magaletti
 valerie's garten
+valley of fear
+van den kerckhoven – bernard foccroulle
 van der graaf
 van der graaf generator
 van halen
@@ -3680,6 +3726,7 @@ vankmen
 vantzou
 varathron
 various
+vasilisk
 vastum
 vatican shadow
 vein.fm
@@ -3725,6 +3772,8 @@ voigt
 voivod
 volcano
 voltigeurs
+voltigeurs....
+vomir
 von zamla
 vortex campaign
 vox populi !
@@ -3813,6 +3862,7 @@ xela
 xenakis
 xhol
 xhol caravan
+xiphiidae
 xiu xiu
 xnomadx
 xome
@@ -3852,6 +3902,7 @@ yoshihide otomo
 yoshio ojima
 you've got foetus on your breath
 young marble giants
+youngsbower
 your arms are my cocoon
 yumemakura baku
 yutaka hirose
@@ -3916,6 +3967,7 @@ zz top
 灰野敬二 = haino keiji
 矢野顕子 = akiko yano
 石塚俊明
+磯田健一郎
 福居良トリオ
 芦川聡
 藤原 玲
@@ -3926,4 +3978,5 @@ zz top
 鮎川麻弥
 黒岩あすか
 공중부양
+서태지
 𝓜𝓾𝓭𝓮𝓻𝓮𝓻𝓲 𝓥. 𝓜𝓾𝓬𝓱𝓮𝓶𝔀𝓪
