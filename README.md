@@ -40,6 +40,7 @@ Usage: `node index`
   - Back Room (berkeley)
   - https://www.sfems.org/
   - https://www.berkeleyfestival.org/
+  - https://www.roarshacklive.com/calendar
   - https://dothebay.com/
   - https://undergroundsf.com/events/
   - https://www.instagram.com/prettygritty_sf/
