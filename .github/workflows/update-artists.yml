@@ -35,5 +35,6 @@ jobs:
           else
             git add artists.txt listened.json index.html
             git commit -m "Update artists list from Discogs"
-            git push
+            git pull --rebase origin main
+            git push origin main
           fi
