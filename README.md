@@ -39,6 +39,7 @@ Usage: `node index`
   - Gray Area (actually seems already included)
   - Back Room (berkeley)
   - https://www.sfems.org/
+  - https://www.cantatacollective.org/
   - https://www.berkeleyfestival.org/
   - https://workingnamestudios.square.site/
   - https://www.roarshacklive.com/calendar
