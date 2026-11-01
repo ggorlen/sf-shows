@@ -52,6 +52,7 @@ abul mogard
 abwärts
 abyssal
 ac
+ace of base
 acetate zero
 achim wollscheid
 acid eater
@@ -358,7 +359,6 @@ bernie krause
 bert lams
 bertoia
 besombes
-bestial putrefaction
 bette midler
 between the buried and me
 bgm
@@ -533,6 +533,7 @@ cancer house
 cannibal corpse
 cannonball adderley
 captain beefheart
+car bomb
 caravan
 carbon based lifeforms
 carcass
@@ -758,6 +759,8 @@ cupol
 curd duca
 curley
 current 93
+current 93 presents dogs blood order
+current 93 with the black and red menstrual show
 current 93 with thomas ligotti
 current ninety three
 current93
@@ -1017,6 +1020,7 @@ drum komputer
 dry cleaning
 dry socket
 duane pitre
+due process rrradio
 duet emmo
 dusa
 dweller on the threshold
@@ -1042,6 +1046,7 @@ east forest
 eaton
 eberhard schoener
 eberhard weber
+eccles
 echo
 ectomorph
 ectovoid
@@ -1274,6 +1279,7 @@ fripp and collins
 from within
 front 242
 front line assembly
+frontierer
 frost
 fslux
 fsol
@@ -1405,6 +1411,7 @@ godsmack
 godspeed you black emperor!
 godspeed you! black emperor
 goethes erben
+gojira
 gong
 gong avec daevid allen
 gordian knot
@@ -2019,6 +2026,7 @@ kyle gann
 kyle h. mabson
 kyllönen
 kyuss
+këkht aräkh
 kōhachiro miyata
 l'occhio dietro la parete
 l.o.s.d.
@@ -2376,6 +2384,7 @@ mirror
 mirrorring
 misako oshiro
 mission of burma
+mivos quartet
 mizmor
 mk9
 mm
@@ -2771,6 +2780,7 @@ picchio dal pozzo
 pier luigi andreoni and francesco paladino
 pierpaolo zoppo
 pierre courbois
+pierre estève
 pierre hantaï
 pierre schaeffer
 pieter jan belder
@@ -2993,6 +3003,7 @@ roedelius
 roger eno
 roger eno and brian eno
 roger winfield
+roger winfield's aeolian harps
 roland
 roland bocquet
 roland kayn
@@ -3164,6 +3175,7 @@ silvia
 silvius leopold weiss
 simon
 simon scott
+simon steensland
 simon swerwer
 sinister
 sinister feeling
@@ -3439,6 +3451,7 @@ tcp
 team sleep
 tears for fears
 techno animal
+technotronic
 ted byrnes
 ted lucas
 ted nugent
@@ -3487,6 +3500,7 @@ the blacks
 the boredoms = ザ・ボアダムズ
 the boyd rice experience
 the breeders
+the bricoleur
 the brotherhood
 the bunnymen
 the byrds
@@ -3612,6 +3626,7 @@ the no neck blues band
 the normal
 the number twelve looks like you
 the offspring
+the olivia tremor control
 the one up downstairs
 the orb
 the orchestra of excited strings
@@ -3770,6 +3785,7 @@ tongue depressor
 toni esposito
 tonie marshall
 tonstartssbandht
+tony buck
 tony conrad
 tony conrad with faust
 tool
@@ -3779,6 +3795,7 @@ toru minegishi
 toru takemitsu
 toshi ichiyanagi
 toshifumi hinata
+toshifumi hinata = 日向敏文
 toshiki kadomatsu
 toshiki kadomatsu = 角松敏生
 toshimaru nakamura
