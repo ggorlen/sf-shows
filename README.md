@@ -56,3 +56,5 @@ Usage: `node index`
   - https://jon.luini.com/thelist/
   - https://github.com/RP2/bay-punks
 - Add key west, and other local bands that may not be derived from discogs
+- other aggregation sites for other cities:
+  - https://nyc-noise.com/
