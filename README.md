@@ -29,6 +29,7 @@ Usage: `node index`
 - Sites to scrape:
   - https://19hz.info/
   - https://www.sfems.org/calendar-of-early-music
+  - https://www.voicesofmusic.org/concerts.html
   - https://kfjc.org/events/concert-outlook
   - https://www.kalx.berkeley.edu/event/events-november-10-16-2025/
   - https://noontimeconcerts.org/
